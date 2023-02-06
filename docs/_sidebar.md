@@ -1,10 +1,36 @@
 
 MT
 
+- Compile Bo-En translation Catalog
+- Compile En-Bo translation Catalog
+- Compile Webpage Catalog
+- Sourcing Bo files
+- Sourcing En files
+- Identifing Bo text versions
+- Preparing Examplary text for all text
+- Cleaning and proofreading text
+- Proofreading text boundary
+- Alignment proofreading in VScode
+
 OCR
+
+- Annotating page boudary in prodigy
+- Selecting pages having distinct page layout
+- Annotating page layout in prodigy
+- Annotation line segmentation in prodigy
+- Selecting images having distict script type
+- Labelling script type in prodigy
+- Add linebreak as per image in VScode
+- Proofread line image and line text in prodigy
 
 STT
 
+- Recording Tibetan audiobook
+- Recording 100 hrs children speech
+- Recording 300 hrs natural speech
+- Cataloging Tibetan movies
+- Sourcing Tibetan movie files
+- Proofreading tibetan movie auto generated subtitles
 
 
 
