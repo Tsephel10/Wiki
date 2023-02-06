@@ -29,7 +29,7 @@ window.$docsify = {
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   externalLinkTarget: '_self',
   plugins: [
-    EditOnGithubPlugin.create('https://github.com/cyanzhong/docs.taio.app/blob/master/docs/', null, path => {
+    EditOnGithubPlugin.create('https://github.com/MonlamAI/Wiki/blob/main/docs/', null, path => {
       if (path.indexOf('bo/') === 0) {
         return '✍️';
       } else {
