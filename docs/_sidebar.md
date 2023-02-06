@@ -1,11 +1,11 @@
-- Quick Start
+- GitHub
   - [README](README.md)
   - [FAQ](faq.md)
   - [Introduction](intro.md)
   - [Clipboard](quick-start/clipboard.md)
   - [Editor](quick-start/editor.md)
   - [Actions](quick-start/actions.md)
-- Editor
+- Discord
   - [Hello, Markdown](editor/hello-markdown.md)
   - [Pro Tips](editor/pro-tips.md)
   - [Command Palette](editor/command-palette.md)
@@ -18,7 +18,7 @@
   - [Custom Preview](editor/custom-preview.md)
   - [Image Uploading](editor/image-uploading.md)
   - [Keyboard Shortcuts](editor/cheatsheet.md)
-- Text Actions
+- OTranscribe
   - [Basics](actions/basics.md)
   - [Categories](actions/categories.md)
   - [Template Strings](actions/template-strings.md)

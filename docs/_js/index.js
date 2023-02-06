@@ -22,7 +22,7 @@ window.$docsify = {
     },
     paths: 'auto',
     placeholder: {
-      '/bo/': 'འཚོལ།',
+      '/bo/': 'དབྱིན་ཡིག་འཚོལ།',
       '/': 'Search'
     }
   },
@@ -31,9 +31,9 @@ window.$docsify = {
   plugins: [
     EditOnGithubPlugin.create('https://github.com/MonlamAI/Wiki/blob/main/docs/', null, path => {
       if (path.indexOf('bo/') === 0) {
-        return '✍️';
+        return '✏️';
       } else {
-        return '✍️';
+        return '✏️';
       }
     }),
     (hook, vm) => {
