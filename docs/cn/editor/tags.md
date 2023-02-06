@@ -14,7 +14,7 @@
 
 当您用 "#" 符号开始打字时，Taio 会自动搜索所有文件中的标签并显示推荐。
 
-<img class="bordered_img" src="../cn/editor/assets/IMG_1.png" />
+<img class="bordered_img" src="../bo/editor/assets/IMG_1.png" />
 
 要完成输入，只需按下 `制表符` 或 `换行符`，或在屏幕上选择一个项目，也可以使用方向键来导航候选项。
 
@@ -24,15 +24,15 @@
 
 当您处于预览模式或尚未开始编辑时，标签与链接功能相同，您可以直接轻点（或用鼠标点击）它们。
 
-<img class="bordered_img" src="../cn/editor/assets/IMG_2.png" />
+<img class="bordered_img" src="../bo/editor/assets/IMG_2.png" />
 
-<img class="bordered_img" src="../cn/editor/assets/IMG_3.png" />
+<img class="bordered_img" src="../bo/editor/assets/IMG_3.png" />
 
 当您编辑一个文件时，只要按住键盘上的 command (⌘) 键，就可以使标签和链接可以点击。
 
 与链接类似，也有一种方法可以快速找到一个文件中的所有标签。您可以通过编辑选项，显示标签来做到这一点。
 
-<img class="bordered_img" src="../cn/editor/assets/IMG_4.png" />
+<img class="bordered_img" src="../bo/editor/assets/IMG_4.png" />
 
 ## 嵌套标签
 
@@ -40,7 +40,7 @@
 
 请自由地创建像 `#app/mobile/ios` 这样结构的标签，Taio 知道它的层次结构。
 
-<img class="bordered_img" src="../cn/editor/assets/IMG_5.png" />
+<img class="bordered_img" src="../bo/editor/assets/IMG_5.png" />
 
 ## 潜在的性能问题
 

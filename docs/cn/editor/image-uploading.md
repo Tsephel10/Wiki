@@ -16,4 +16,4 @@
 
 <img src="https://github.com/cyanzhong/Image-Uploader/raw/main/screenshots/IMG_4.PNG" width="360" alt="多种云服务"/>
 
-它是 100% 基于 [文本动作](cn/actions/basics.md) 并且完全开源的，请试试看！
+它是 100% 基于 [文本动作](bo/actions/basics.md) 并且完全开源的，请试试看！

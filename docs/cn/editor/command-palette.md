@@ -6,7 +6,7 @@
 
 显示指令面板最简单的方法是输入一个 `/`，即斜线符号。
 
-<img class="bordered_img" src="../cn/editor/assets/IMG_12.png" />
+<img class="bordered_img" src="../bo/editor/assets/IMG_12.png" />
 
 通过这个对话框，我们可以改变文本样式，插入标签和短语，以及运行文本动作等。
 
@@ -16,7 +16,7 @@
 
 指令是可以搜索的，我们可以很轻松地过滤出我们要找的指令。
 
-<img class="bordered_img" src="../cn/editor/assets/IMG_13.png" />
+<img class="bordered_img" src="../bo/editor/assets/IMG_13.png" />
 
 > 如果您使用拼音输入法，中文内容可以被拼音首字母缩写找到。
 
@@ -24,4 +24,4 @@
 
 如果选择了一些文本，我们可能不想通过插入斜线符号来删除它。为了处理这个问题，我们也可以通过按下 `⌘ /` 来触发指令面板。
 
-<img class="bordered_img" src="../cn/editor/assets/IMG_14.png" />
+<img class="bordered_img" src="../bo/editor/assets/IMG_14.png" />

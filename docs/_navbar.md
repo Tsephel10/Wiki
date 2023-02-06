@@ -1,2 +1,2 @@
 - [What's New](whatsnew.md)
-- [**EN** / CN](cn/)
+- [**EN** / bo](bo/)

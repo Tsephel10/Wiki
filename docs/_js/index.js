@@ -1,10 +1,10 @@
 window.$docsify = {
   themeColor: '#ff9500',
   alias: {
-    '/((?!cn).)*/_sidebar.md': '/_sidebar.md',
-    '/((?!cn).)*/_navbar.md': '/_navbar.md',
-    '/cn/.*/_sidebar.md': '/cn/_sidebar.md',
-    '/cn/.*/_navbar.md': '/cn/_navbar.md'
+    '/((?!bo).)*/_sidebar.md': '/_sidebar.md',
+    '/((?!bo).)*/_navbar.md': '/_navbar.md',
+    '/bo/.*/_sidebar.md': '/bo/_sidebar.md',
+    '/bo/.*/_navbar.md': '/bo/_navbar.md'
   },
   auto2top: true,
   coverpage: false,
@@ -17,12 +17,12 @@ window.$docsify = {
   name: 'Taio',
   search: {
     noData: {
-      '/cn/': '没有结果',
+      '/bo/': '没有结果',
       '/': 'No results'
     },
     paths: 'auto',
     placeholder: {
-      '/cn/': '搜索',
+      '/bo/': '搜索',
       '/': 'Search'
     }
   },
@@ -30,7 +30,7 @@ window.$docsify = {
   externalLinkTarget: '_self',
   plugins: [
     EditOnGithubPlugin.create('https://github.com/cyanzhong/docs.taio.app/blob/master/docs/', null, path => {
-      if (path.indexOf('cn/') === 0) {
+      if (path.indexOf('bo/') === 0) {
         return '在 GitHub 上编辑';
       } else {
         return 'Edit on GitHub';

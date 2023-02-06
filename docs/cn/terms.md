@@ -12,17 +12,17 @@ Taio 高级版提供多种定价策略以适应不同的需求，例如按月订
 
 另外值得一提的是，若使用订阅模式，您所使用的优惠价格将在续订中保持，不会随着之后产品的价格上调而上调。而永久解锁则对后续所有更新均有效，包括大版本更新。
 
-如果您感兴趣，请在我们的[官网](https://taio.app/cn/#pricing)了解更多，感谢支持。
+如果您感兴趣，请在我们的[官网](https://taio.app/bo/#pricing)了解更多，感谢支持。
 
 **服务可用性**
 
-当您在多台设备上使用同一 Apple ID 时，请遵循 Apple 官方在[《Apple 媒体服务条款和条件》](https://www.apple.com/legal/internet-services/itunes/cn/terms.html)文件中提到的设备数量要求。
+当您在多台设备上使用同一 Apple ID 时，请遵循 Apple 官方在[《Apple 媒体服务条款和条件》](https://www.apple.com/legal/internet-services/itunes/bo/terms.html)文件中提到的设备数量要求。
 
 我们保留对严重违反该条款的处理权利，包括但不限于移除已解锁的内容。
 
 **退款**
 
-如果您有这样的想法，我们感到很遗憾，所以请优先考虑通过[联系我们](mailto:hi@taio.app)来解决您不满的地方，但我们始终尊重您的选择。然而，应用的退款流程并不受开发者掌控，所以我们建议您联系 Apple 的支持团队来处理退款，您可以在[这里](https://support.apple.com/zh-cn/HT204084)找到相关信息。
+如果您有这样的想法，我们感到很遗憾，所以请优先考虑通过[联系我们](mailto:hi@taio.app)来解决您不满的地方，但我们始终尊重您的选择。然而，应用的退款流程并不受开发者掌控，所以我们建议您联系 Apple 的支持团队来处理退款，您可以在[这里](https://support.apple.com/zh-bo/HT204084)找到相关信息。
 
 **本使用条款的变更**
 

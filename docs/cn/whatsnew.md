@@ -4,7 +4,7 @@
 
 ### 🪄 自定义预览
 
-我们现在可以通过 CSS 和 JavaScript 自定义预览的样式和行为，[了解更多](https://docs.taio.app/#/cn/editor/custom-preview)。
+我们现在可以通过 CSS 和 JavaScript 自定义预览的样式和行为，[了解更多](https://docs.taio.app/#/bo/editor/custom-preview)。
 
 ### 🔥 全面适配 iOS 16
 

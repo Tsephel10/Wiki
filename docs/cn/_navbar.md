@@ -1,2 +1,2 @@
-- [最近更新](cn/whatsnew.md)
-- [EN / **CN**](/)
+- [最近更新](bo/whatsnew.md)
+- [EN / **bo**](/)

@@ -1,6 +1,6 @@
 # 进阶脚本编程
 
-Taio 提供了对运行 JavaScript 的全面支持。更重要的是，JavaScript 运行时由 [JSBox 应用](https://apps.apple.com/cn/app/id1312014438) 提供支持，这意味着您可以使用 JSBox 提供的所有模块，例如创建**自定义用户界面**、访问**日历**和**提醒事项**等。
+Taio 提供了对运行 JavaScript 的全面支持。更重要的是，JavaScript 运行时由 [JSBox 应用](https://apps.apple.com/bo/app/id1312014438) 提供支持，这意味着您可以使用 JSBox 提供的所有模块，例如创建**自定义用户界面**、访问**日历**和**提醒事项**等。
 
 关于 JavaScript 编程语言，可以参考一些知名教程，比如 [javascript.info](https://javascript.info/)。
 
@@ -16,7 +16,7 @@ Taio 提供了对运行 JavaScript 的全面支持。更重要的是，JavaScrip
 
 通常来说，使用 Taio 的脚本编辑器来开发脚本已经足够好，因为它提供了语法高亮和自动完成等功能。
 
-然而对于大型项目来说，一个更好的环境会让您开发更轻松。在这种情况下，我们推荐使用 [JSBox](https://apps.apple.com/cn/app/id1312014438) 作为开发环境，它提供了一个 [VS Code 扩展](https://marketplace.visualstudio.com/items?itemName=Ying.jsbox)，让您可以在电脑上开发，并直接在设备上运行代码。
+然而对于大型项目来说，一个更好的环境会让您开发更轻松。在这种情况下，我们推荐使用 [JSBox](https://apps.apple.com/bo/app/id1312014438) 作为开发环境，它提供了一个 [VS Code 扩展](https://marketplace.visualstudio.com/items?itemName=Ying.jsbox)，让您可以在电脑上开发，并直接在设备上运行代码。
 
 更妙的是，您可以在开发过程中把代码分成多个模块，并通过把它们打包到一个文本动作文件来进行部署，请参考我们的示例项目 [tldraw](https://github.com/cyanzhong/tldraw/tree/main/apps/jsbox)。
 

@@ -20,13 +20,13 @@ Taio 支持完全开放的文件系统，例如：
 
 上面截图中出现的目录是被 Working Copy 应用管理的，在文件应用中添加其 File Provider 之后，您可以使用 Taio 的文件书签功能将此目录添加至 Taio：
 
-<img src="../cn/integration/assets/IMG_7.png" width="360" />
+<img src="../bo/integration/assets/IMG_7.png" width="360" />
 
 **使用 Taio 修改文件**
 
 在链接文件书签后，Taio 即可直接编辑 Working Copy 内的文件，此方式直接修改了 Working Copy 内的文件本身，而不是通过复制一个文件得到的：
 
-<img src="../cn/integration/assets/IMG_8.png" width="360" />
+<img src="../bo/integration/assets/IMG_8.png" width="360" />
 
 **使用 Working Copy 管理版本**
 
