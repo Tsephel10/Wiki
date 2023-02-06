@@ -14,15 +14,15 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
-  name: 'Taio',
+  name: 'Monlam AI Wiki',
   search: {
     noData: {
-      '/bo/': '没有结果',
+      '/bo/': 'བཙལ་འབྲས་མེད།',
       '/': 'No results'
     },
     paths: 'auto',
     placeholder: {
-      '/bo/': '搜索',
+      '/bo/': 'འཚོལ།',
       '/': 'Search'
     }
   },
@@ -31,9 +31,9 @@ window.$docsify = {
   plugins: [
     EditOnGithubPlugin.create('https://github.com/cyanzhong/docs.taio.app/blob/master/docs/', null, path => {
       if (path.indexOf('bo/') === 0) {
-        return '在 GitHub 上编辑';
+        return '✍️';
       } else {
-        return 'Edit on GitHub';
+        return '✍️';
       }
     }),
     (hook, vm) => {
