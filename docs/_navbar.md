@@ -1,2 +1,2 @@
-- [What's New](whatsnew.md)
-- [**EN** / bo](bo/)
+- [ℹ️ Help](help.md)
+- [**EN** / བོད།](bo/)
