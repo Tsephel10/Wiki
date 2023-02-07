@@ -12,7 +12,7 @@
 
 ## Discord
 - [How to download Discord](howto/download-discord.md)
-- How to share screen in Discord
+- [How to share screen in Discord](howto/share-screen-discord.md)
 
 ## OTranscribe
 - How to open OTranscribe
