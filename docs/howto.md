@@ -11,7 +11,7 @@
 - How to change the image size on Github
 
 ## Discord
-- How to download Discord
+- [How to download Discord](howto/download-discord.md)
 - How to share screen in Discord
 
 ## OTranscribe
