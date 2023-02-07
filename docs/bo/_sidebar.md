@@ -2,7 +2,7 @@
   - [དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།](bo/mt/bo-versions.md)
   - [ཁོ་ཌི་མཉེན་ཆས་ནང་བོད་ཡིག་དང་ཨིན་ཇི་ཡིག་བསྒྱུར་མཐུན་མིན་ལ་ལྟ་སྟངས།](bo/mt/Proof_reading_alignment.md)
   - [文本动作](bo/quick-start/actions.md)
-- 编辑器
+- OCR ཡིག་འཛིན།
   - [你好，Markdown](bo/editor/hello-markdown.md)
   - [进阶技巧](bo/editor/pro-tips.md)
   - [指令面板](bo/editor/command-palette.md)
@@ -22,8 +22,8 @@
   - [控制流](bo/actions/control-flow.md)
   - [变量](bo/actions/variables.md)
   - [进阶脚本编程](bo/actions/scripting.md)
-- 应用集成
-  - [快捷指令](bo/integration/shortcuts.md)
+- ཉེར་མཁོའི་བཀོལ་སྤྱོད་ལམ་སྟོན་གཞན།
+  - [👨🏽‍💻གྷི་ཐབ་(github)ཁ་བྱང་བཟོ་སྟངས།](https://github.com/MonlamAI/Wiki/blob/main/docs/bo/howto/install-github-desktop.md)
   - [Working Copy](bo/integration/working-copy.md)
   - [TextExpander](bo/integration/text-expander.md)
   - [Hook](bo/integration/hook.md)
