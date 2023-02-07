@@ -1,7 +1,6 @@
-- འཕྲུལ་ཆས་ཡིག་བསྒྱུར།
-  - [དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།](https://github.com/MonlamAI/Wiki/blob/main/docs/bo/mt/bo-versions.md)
-  - [bo/faq.md](https://github.com/MonlamAI/Wiki/blob/main/docs/bo/mt/Translation_Pair_Correction)
-  - [剪贴板](bo/quick-start/clipboard.md)
+- ཡིག་བསྒྱུར་དྲན་པ།
+  - [དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།](https://github.com/MonlamAI/Wiki/blob/main/docs/mt/bo-versions.md)
+  - [Translation Pair Correction](https://github.com/MonlamAI/Wiki/blob/main/docs/bo/mt/translation_pair_correction.md)
   - [编辑器](bo/quick-start/editor.md)
   - [文本动作](bo/quick-start/actions.md)
 - 编辑器
