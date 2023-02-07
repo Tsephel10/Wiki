@@ -1,5 +1,5 @@
-- 快速开始
-  - [关于](bo/README.md)
+- ཡིག་བསྒྱུར་དྲན་པ།
+  - [དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།](bo/README.md)
   - [常见问题](bo/faq.md)
   - [剪贴板](bo/quick-start/clipboard.md)
   - [编辑器](bo/quick-start/editor.md)
