@@ -2,7 +2,7 @@
   - [Bo-En webpage catalog]()
   - [Bo-En translation catalog](mt/boen-catalog.md)
   - [Bo text versions]()
-  - [Get Bo etexts](https://github.com/MonlamAI/Wiki/blob/main/docs/mt/bo-versions.md)
+  - [Get Bo etexts](mt/bo-versions.md)
   - [En-Bo translation catalog](mt/enbo-catalog.md)
   - Source EN and BO files
   - Get etext with parsing or OCR
