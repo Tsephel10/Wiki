@@ -4,7 +4,6 @@
 
 ## Github
 - [How to create Github account](howto/create-github-account.md)
-- [How to download Github Desktop](howto/download-github-desktop.md)
 - [How-to install Github Desktop](howto/install-github-desktop.md)
 - How to upload file on Github
 - How to merge file on Github
