@@ -1,6 +1,6 @@
 - འཕྲུལ་ཆས་ཡིག་བསྒྱུར།
   - [དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།](bo/mt/bo-versions.md)
-  - [编辑器](bo/quick-start/editor.md)
+  - [ཁོ་ཌི་མཉེན་ཆས་ནང་བོད་ཡིག་དང་ཨིན་ཇི་ཡིག་བསྒྱུར་མཐུན་མིན་ལ་ལྟ་སྟངས།](bo/mt/Proof_reading_alignment.md)
   - [文本动作](bo/quick-start/actions.md)
 - 编辑器
   - [你好，Markdown](bo/editor/hello-markdown.md)
