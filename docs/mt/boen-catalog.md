@@ -1,1 +1,1 @@
-hello
+# Bo-En translation catalog
