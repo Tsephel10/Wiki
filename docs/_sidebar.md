@@ -1,13 +1,13 @@
 - MT
   - [Bo-En webpage catalog]()
   - [Bo-En translation catalog](mt/boen-catalog.md)
-  - [Bo text versions](https://github.com/MonlamAI/Wiki/blob/main/docs/mt/bo-versions.md)
+  - [Bo text versions]()
   - [Get Bo etexts](https://github.com/MonlamAI/Wiki/blob/main/docs/mt/bo-versions.md)
   - [En-Bo translation catalog](mt/enbo-catalog.md)
   - Source EN and BO files
   - Get etext with parsing or OCR
   - Extract body text
-  - Proof reading alignment in VS Code
+  - [Proof reading alignment in VS Code](https://github.com/MonlamAI/Wiki/blob/main/docs/mt/Proof_reading_alignment.md)
 
 - OCR
   - Annotating page boudary in prodigy
