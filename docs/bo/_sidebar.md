@@ -1,5 +1,5 @@
 - འཕྲུལ་ཆས་ཡིག་བསྒྱུར།
-  - [Bo text versions](https://github.com/MonlamAI/Wiki/blob/main/docs/bo/mt/bo-versions.md)
+  - [དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།](https://github.com/MonlamAI/Wiki/blob/main/docs/bo/mt/bo-versions.md)
   - [编辑器](bo/quick-start/editor.md)
   - [文本动作](bo/quick-start/actions.md)
 - 编辑器
