@@ -1,4 +1,4 @@
-- ཡིག་བསྒྱུར་དྲན་པ།
+- འཕྲུལ་ཆས་ཡིག་བསྒྱུར།
   - [དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།](https://github.com/MonlamAI/Wiki/blob/main/docs/bo/mt/bo-versions.md)
   - [常见问题](bo/faq.md)
   - [剪贴板](bo/quick-start/clipboard.md)
