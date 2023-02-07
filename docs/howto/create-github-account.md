@@ -1,3 +1,4 @@
+# How create github account
 **1. google search ཐོག་ལ་github ཞེས་པ་ཕྲིས་ནས་འཚོལ། གཤམ་གྱི་འདྲ་པར་དུ་གསལ་བ་བཞིན་Sign up ཞེས་པ་དེ་འདེམ་དགོས།**
 
 <img src="https://user-images.githubusercontent.com/121783571/212825408-f2c88e02-6a7f-4acb-a83b-46f84cf40f23.PNG" width="400"/>
