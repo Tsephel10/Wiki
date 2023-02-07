@@ -27,3 +27,5 @@
   - Sourcing Tibetan movie files
   - Proofreading tibetan movie auto generated subtitles
 
+- General Tutorials
+  - [How to sign up in GitHub](https://github.com/orgs/MonlamAI/discussions/9)
