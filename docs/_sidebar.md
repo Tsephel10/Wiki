@@ -1,5 +1,5 @@
 - MT
-  - [Bo-En webpage catalog](https://github.com/MonlamAI/Wiki/blob/main/docs/mt/webpage-catalog.md)
+  - [Bo-En webpage catalog](https://github.com/MonlamAI/Wiki/blob/main/docs/bo/mt/bo-versions.md)
   - [Bo-En translation catalog](mt/boen-catalog.md)
   - [Bo text versions](mt/bo-versions.md)
   - [Get Bo etexts](mt/get-bo-etexts.md)
