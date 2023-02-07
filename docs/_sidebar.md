@@ -1,8 +1,8 @@
 - MT
-  - [Bo-En webpage catalog]()
+  - [Bo-En webpage catalog](mt/webpage-catalog.md)
   - [Bo-En translation catalog](mt/boen-catalog.md)
-  - [Bo text versions]()
-  - [Get Bo etexts](mt/bo-versions.md)
+  - [Bo text versions](mt/bo-versions.md)
+  - [Get Bo etexts](mt/get-bo-etexts.md)
   - [En-Bo translation catalog](mt/enbo-catalog.md)
   - Source EN and BO files
   - Get etext with parsing or OCR
