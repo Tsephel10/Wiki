@@ -1,2 +1,2 @@
-- [ℹ️ Help](help.md)
+- [ℹ️ How to](help.md)
 - [བོད་ཡིག](bo/)
