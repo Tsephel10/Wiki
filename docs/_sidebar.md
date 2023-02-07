@@ -1,31 +1,13 @@
-
-- Transcription with OTranscribe
-  - [README](README.md)
-  - [FAQ](faq.md)
-  - [Introduction](intro.md)
-  - [Clipboard](quick-start/clipboard.md)
-  - [Editor](quick-start/editor.md)
-  - [Actions](quick-start/actions.md)
-
-
-
-
-
 - MT
-  - [BO-EN translation catalog](https://monlamai.github.io/Wiki/docs/mt/boen-catalog.md)
-    - Compile webpage catalog
-    - Source BO files
-      - Identify BO text versions
-      - Create examplar etext
-      - Get etext with parsing or OCR
-  - EN-BO files
-    - Compile En-Bo translation catalog
-    - Compile Webpage catalog
-    - Source EN and BO files
-    - Get etext with parsing or OCR
-    - Extract body text
-  - Alignment
-    - Proofread alignment in VS Code
+  - [Bo-En webpage catalog](mt/webpage-catalog.md)
+  - [Bo-En translation catalog](mt/boen-catalog.md)
+  - [Identify Bo text versions](mt/bo-versions.md)
+  - [Get Bo etext](mt/get-bo-etexts.md)
+  - [En-Bo translation catalog](mt/enbo-catalog.md)
+  - Source EN and BO files
+  - Get etext with parsing or OCR
+  - Extract body text
+  - Proofread alignment in VS Code
 
 - OCR
   - Annotating page boudary in prodigy
