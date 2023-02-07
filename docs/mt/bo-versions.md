@@ -13,6 +13,7 @@
 
 ## དང་པོ། མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
 ཞིབ་ཕྲ་བརྙན་ལ་གཟིགས།
+
 <img src="https://user-images.githubusercontent.com/28945342/216926656-23229dd3-00c1-4885-b521-23628c721be0.png" width="400"/>
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://watch.screencastify.com/v/PaX37UI36a9XYcg2nFiR)
