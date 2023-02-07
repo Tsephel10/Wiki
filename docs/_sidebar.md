@@ -1,6 +1,17 @@
 
+- Transcription with OTranscribe
+  - [README](README.md)
+  - [FAQ](faq.md)
+  - [Introduction](intro.md)
+  - [Clipboard](quick-start/clipboard.md)
+  - [Editor](quick-start/editor.md)
+  - [Actions](quick-start/actions.md)
+
+
+
+
+
 - MT
-  - BO-EN files
   - [BO-EN translation catalog](https://monlamai.github.io/Wiki/docs/mt/boen-catalog.md)
     - Compile webpage catalog
     - Source BO files
