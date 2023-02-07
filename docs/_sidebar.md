@@ -1,7 +1,7 @@
 
 - MT
   - BO-EN files
-    - [Compile BO-EN translation catalog](https://monlamai.github.io/Wiki/#/)
+  - [BO-EN translation catalog](https://monlamai.github.io/Wiki/docs/mt/boen-catalog.md)
     - Compile webpage catalog
     - Source BO files
       - Identify BO text versions
