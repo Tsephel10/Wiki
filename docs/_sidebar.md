@@ -7,6 +7,7 @@
   - Source EN and BO files
   - Get etext with parsing or OCR
   - Extract body text
+  - Proof reading alignment in VS Code
 
 - OCR
   - Annotating page boudary in prodigy
