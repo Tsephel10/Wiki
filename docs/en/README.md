@@ -1,16 +1,10 @@
-# Taio
+# Monlam AI
 
-This document provides instructions, tips and tricks for getting started with the [Taio](https://taio.app) app, as well as some reference examples.
+Monlam AI is a project of Monlam IT. It is an effort to develop Tibetan language technology in order to bridge the technology and language divides in the Tibetan communities. Over the next three years, this project will improve Tibetan AI in three major areas:
 
-We will keep this documentation updated to accommodate changes to the app, please stay tuned for our [What's New](whatsnew.md).
+Machine Translation
+OCR (Optical Character Recognition)
+Speech-to-Text + Text-to-Speech
+Artificial Intelligence (AI) models “learn” from large amounts of high-quality training data prepared by humans. This project will focus on creating this training data for Tibetan language.
 
-## FAQ
-
-Some questions are asked a lot, we have prepared a [FAQ](faq.md) list for them and will keep it updated in future.
-
-## Contact Us
-
-Feel free to reach us out:
-
-- Email: [hi@taio.app](mailto:hi@taio.app)
-- Twitter: https://twitter.com/TaioApp
+This project is maintained by MonlamAI
