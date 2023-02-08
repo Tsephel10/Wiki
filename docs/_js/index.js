@@ -1,10 +1,10 @@
 window.$docsify = {
   themeColor: '#ff9500',
   alias: {
-    '/((?!bo).)*/_sidebar.md': '/_sidebar.md',
-    '/((?!bo).)*/_navbar.md': '/_navbar.md',
-    '/.*/_sidebar.md': '/_sidebar.md',
-    '/.*/_navbar.md': '/_navbar.md'
+    '/((?!en).)*/_sidebar.md': '/_sidebar.md',
+    '/((?!en).)*/_navbar.md': '/_navbar.md',
+    '/en/.*/_sidebar.md': '/en/_sidebar.md',
+    '/en/.*/_navbar.md': '/en/_navbar.md'
   },
   auto2top: true,
   coverpage: false,
@@ -17,13 +17,13 @@ window.$docsify = {
   name: 'Monlam AI Wiki',
   search: {
     noData: {
-      '/': 'བཙལ་འབྲས་མེད།',
-      'en/': 'No results'
+      '/en/': 'No results',
+      '/': 'བཙལ་འབྲས་མེད།'
     },
     paths: 'auto',
     placeholder: {
-      '/': 'དབྱིན་ཡིག་འཚོལ།',
-      'en/': 'Search'
+      '/en/': 'Search',
+      '/': 'དབྱིན་ཡིག་འཚོལ།'
     }
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
