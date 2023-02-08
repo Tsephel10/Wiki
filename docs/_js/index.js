@@ -1,5 +1,6 @@
 window.$docsify = {
   themeColor: '#ff9500',
+  logo: '_asset/logo.png',
   alias: {
     '/((?!en).)*/_sidebar.md': '/_sidebar.md',
     '/((?!en).)*/_navbar.md': '/_navbar.md',
@@ -14,8 +15,7 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
-  // name: 'Monlam AI Wiki',
-  logo: '_asset/logo.png',
+  name: 'སྨོན་ལམ་རིག་ནུས།',
   search: {
     noData: {
       '/en/': 'No results',
