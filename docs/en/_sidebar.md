@@ -7,7 +7,7 @@
   - Source EN and BO files
   - Get etext with parsing or OCR
   - Extract body text
-  - [Proof reading alignment in VS Code](/mt/proofreading-alignment.md)
+  - [Proof reading alignment in VS Code](en/mt/proofreading-alignment.md)
 
 - OCR
   - Annotating page boudary in prodigy
@@ -29,27 +29,25 @@
 
 - Basic Skills
    - Github
-     - [How to create Github account](howto/create-github-account.md)
-     - [How-to install Github Desktop](howto/install-github-desktop.md)
-     - [How to upload file on Github](howto/upload-file-github.md)
-     - [How to create pull request on Github](howto/create-pull-request-github.md)
-     - How to upload image on Github
-     - How to change the image size on Github
-     - How to create fork on Github
+     - [How to create Github account](en/howto/create-github-account.md)
+     - [How-to install Github Desktop](en/howto/install-github-desktop.md)
+     - [How to upload file on Github](en/howto/upload-file-github.md)
+     - [How to create pull request on Github](en/howto/create-pull-request-github.md)
+     - [How to upload image on Github]()
+     - [How to change the image size on Github](en/howto/resizeimage-github.md)
+     - [How to create fork on Github](en/howto/createfork-github.md)
 
   - Discord
-     - [How to download Discord](howto/download-discord.md)
-     - How to install Discord
-     - [How to share screen in Discord](howto/share-screen-discord.md)
-     - How to use different functionality
+     - [How to download Discord](en/howto/download-discord.md)
+     - [How to share screen in Discord](en/howto/screensharing-discord.md)
+     - [How to use different functionality](en/howto/different-functions-discord.md)
 
   - OTranscribe
-    - How to open OTranscribe
-    - How to work in OTranscribe(Video)
-    - How to work in OTranscribe(GIF)
-    - Shortcut keys in OTranscribe
+    - [How to open OTranscribe](en/howto/open-otranscribe.md)
+    - [How to work in OTranscribe(Video)](en/howto/workin-otranscribevideo.md)
+    - [How to work in OTranscribe(GIF)](en/howto/workin-otranscribegif.md)
 
   - Tools
-    - How to convert txt file with PDF to txt format
-    - How to use Snipping tool on Windows
-    - How to record with screencasitify
+    - [How to convert txt file with PDF to txt format](en/howto/convertpdf-txt.md)
+    - [How to use Snipping tool on Windows](en/howto/snippingtool-window.md)
+    - [How to record with screencasitify](en/howto/record-screencastify.md)
