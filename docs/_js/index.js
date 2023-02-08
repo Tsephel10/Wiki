@@ -14,7 +14,8 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
-  name: 'Monlam AI Wiki',
+  // name: 'Monlam AI Wiki',
+  logo: '/_asset/logo.png',
   search: {
     noData: {
       '/en/': 'No results',
