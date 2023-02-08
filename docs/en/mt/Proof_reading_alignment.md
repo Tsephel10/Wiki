@@ -10,7 +10,7 @@
 - Send pull request
 
 
-[cinwell website](https://www.youtube.com/embed/-Mw-2HcN9GQ ':include :type=iframe width=100% height=400px')
+[cinwell website](https://www.youtube.com/embed/-Mw-2HcN9GQ ':include :type=iframe width=560px height=315px')
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Mw-2HcN9GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
