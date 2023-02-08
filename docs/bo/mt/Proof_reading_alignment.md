@@ -12,25 +12,19 @@
 
 <iframe width="802" height="452" src="https://www.youtube.com/embed/91NXzindnm4" title="01 TPW  (Create fork)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![image](https://user-images.githubusercontent.com/42564256/216926606-025f782e-ce6e-4160-88bb-6164244b020c.png)
- 👉 སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་བསྣུན།](https://youtu.be/91NXzindnm4)
-
 ## 2) ཡིག་མཛོད་རང་ཉིད་ཀྱི་གློག་ཀླད་སྟེང་ཕབ་ལེན་བྱེད་སྟངས།
-![image](https://user-images.githubusercontent.com/42564256/216927437-a0186d5f-70cd-433e-aa57-94f1c7d30305.png)
-👉 སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་བསྣུན།](https://youtu.be/vepFpTYaDoA)
+
+<iframe width="802" height="452" src="https://www.youtube.com/embed/vepFpTYaDoA?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="02 TPW (Cloning)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 3) ཁོ་ཌི་ནང་ཡིག་ཆ་གཉིས་མཉམ་དུ་ཁ་ཕྱེ་སྟངས།
-![image](https://user-images.githubusercontent.com/42564256/216927913-24c518c3-e56a-4e20-b961-2096c1b412e8.png)
-👉 སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་བསྣུན།](https://youtu.be/-k9WmGsHdkc)
+
+<iframe width="802" height="452" src="https://www.youtube.com/embed/-k9WmGsHdkc?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="03 TPW (Open in VScode)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 4) ཡིག་ཆ་གཉིས་ཞིབ་བསྡུར་དང་བཟོ་བཅོས།
-![image](https://user-images.githubusercontent.com/42564256/216929434-49ef4a0d-4c39-4139-8c14-5d524ac75c96.png)
-👉 སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་བསྣུན།](https://youtu.be/naGuVEfRN9Q)
+<iframe width="802" height="452" src="https://www.youtube.com/embed/naGuVEfRN9Q?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="04 TPW (Compare and adjust)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 5) བཟོས་བཅོས་གང་བྱས་གྷི་ཐབས་སྟེང་ཉར་ཚགས་བྱེད་སྟངས།
-![image](https://user-images.githubusercontent.com/42564256/216930663-c58b3f5b-d045-4cf3-a765-a76002c8da0f.png)
-👉 སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་བསྣུན།](https://youtu.be/IbCSgl3lnig)
+<iframe width="802" height="452" src="https://www.youtube.com/embed/IbCSgl3lnig?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="05TPW (Commit and push)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 6) ཡིག་ཆ་རྩིས་འབུལ།
-![image](https://user-images.githubusercontent.com/42564256/216930964-8ebaedaa-6af7-42c3-a470-52e8fe277889.png)
-👉 སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་བསྣུན།](https://youtu.be/KcQdxMxyuKw)
+<iframe width="802" height="452" src="https://www.youtube.com/embed/KcQdxMxyuKw?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="06 TPW (Pull request)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
