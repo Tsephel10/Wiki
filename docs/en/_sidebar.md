@@ -7,7 +7,7 @@
   - Source EN and BO files
   - Get etext with parsing or OCR
   - Extract body text
-  - [Proof reading alignment in VS Code](en/mt/proof_reading_alignment.md)
+  - [Proof reading alignment in VS Code](en/mt/proofreading_alignment.md)
 
 - OCR
   - Annotating page boudary in prodigy
