@@ -3,8 +3,8 @@ window.$docsify = {
   alias: {
     '/((?!bo).)*/_sidebar.md': '/_sidebar.md',
     '/((?!bo).)*/_navbar.md': '/_navbar.md',
-    '/bo/.*/_sidebar.md': '/bo/_sidebar.md',
-    '/bo/.*/_navbar.md': '/bo/_navbar.md'
+    '/.*/_sidebar.md': '/_sidebar.md',
+    '/.*/_navbar.md': '/_navbar.md'
   },
   auto2top: true,
   coverpage: false,
@@ -17,20 +17,20 @@ window.$docsify = {
   name: 'Monlam AI Wiki',
   search: {
     noData: {
-      '/bo/': 'བཙལ་འབྲས་མེད།',
-      '/': 'No results'
+      '/': 'བཙལ་འབྲས་མེད།',
+      'en/': 'No results'
     },
     paths: 'auto',
     placeholder: {
-      '/bo/': 'དབྱིན་ཡིག་འཚོལ།',
-      '/': 'Search'
+      '/': 'དབྱིན་ཡིག་འཚོལ།',
+      'en/': 'Search'
     }
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   externalLinkTarget: '_self',
   plugins: [
     EditOnGithubPlugin.create('https://github.com/MonlamAI/Wiki/blob/main/docs/', null, path => {
-      if (path.indexOf('bo/') === 0) {
+      if (path.indexOf('en/') === 0) {
         return '✏️';
       } else {
         return '✏️';

@@ -1,28 +1,30 @@
-# Proof reading alignment in VS Code
+# ཁོ་ཌི་མཉེན་ཆས་ནང་བོད་ཡིག་དང་ཨིན་ཇི་ཡིག་བསྒྱུར་མཐུན་མིན་ལ་ལྟ་སྟངས། (Proof reading alignment in VS Code)
+**ནང་དོན་དཀར་ཆག**
 
-**Content**
+- ཡིག་མཛོད་རང་ཉིད་ཀྱི་གྷི་ཐབ་ཁ་བྱང་སྟེང་ངོ་བཤུས་བྱེད་པ། (Fork repository)
+- ཡིག་མཛོད་རང་ཉིད་ཀྱི་གློག་ཀླད་སྟེང་ཕབ་ལེན་བྱེད་སྟངས། Clone a repository
+- ཁོ་ཌི་ནང་ཡིག་ཆ་གཉིས་མཉམ་དུ་ཁ་ཕྱེ་སྟངས། (Open 2 files in VS code)
+- ཡིག་ཆ་གཉིས་ཞིབ་བསྡུར་དང་བཟོ་བཅོས། (Compare and adjust when needed)
+- བཟོས་བཅོས་གང་བྱས་གྷི་ཐབས་སྟེང་ཉར་ཚགས་བྱེད་སྟངས། (Commit and push to github)
+- ཡིག་ཆ་རྩིས་འབུལ། (Send pull request)
 
--  Fork repository
--  Clone a repository
-- Open 2 files in VS code
-- Compare and adjust when needed
-- Commit and push to github
-- Send pull request
+## 1) ཡིག་མཛོད་རང་ཉིད་ཀྱི་གྷི་ཐབ་ཁ་བྱང་སྟེང་ངོ་བཤུས་བྱེད་པ།
 
-## 1) Fork repository
-<iframe width="802" height="452" src="https://www.youtube.com/embed/91NXzindnm4" title="01 TPW  (Create fork)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="802" height="452" src="https://www.youtube.com/embed/91NXzindnm4" title="01 TPW  (Create fork)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 2) Clone a repository
-<iframe width="802" height="452" src="https://www.youtube.com/embed/vepFpTYaDoA?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="02 TPW (Cloning)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## 2) ཡིག་མཛོད་རང་ཉིད་ཀྱི་གློག་ཀླད་སྟེང་ཕབ་ལེན་བྱེད་སྟངས།
 
-## 3) Open 2 files in VS code
+<iframe width="802" height="452" src="https://www.youtube.com/embed/vepFpTYaDoA?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="02 TPW (Cloning)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## 3) ཁོ་ཌི་ནང་ཡིག་ཆ་གཉིས་མཉམ་དུ་ཁ་ཕྱེ་སྟངས།
+
 <iframe width="802" height="452" src="https://www.youtube.com/embed/-k9WmGsHdkc?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="03 TPW (Open in VScode)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 4) Compare and adjust when needed
+## 4) ཡིག་ཆ་གཉིས་ཞིབ་བསྡུར་དང་བཟོ་བཅོས།
 <iframe width="802" height="452" src="https://www.youtube.com/embed/naGuVEfRN9Q?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="04 TPW (Compare and adjust)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 5) Commit and push to github
+## 5) བཟོས་བཅོས་གང་བྱས་གྷི་ཐབས་སྟེང་ཉར་ཚགས་བྱེད་སྟངས།
 <iframe width="802" height="452" src="https://www.youtube.com/embed/IbCSgl3lnig?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="05TPW (Commit and push)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 6) Send pull request
+## 6) ཡིག་ཆ་རྩིས་འབུལ།
 <iframe width="802" height="452" src="https://www.youtube.com/embed/KcQdxMxyuKw?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="06 TPW (Pull request)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

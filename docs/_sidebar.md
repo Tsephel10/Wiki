@@ -1,31 +1,34 @@
-- MT
-  - [Bo-En webpage catalog](mt/webpage-catalog.md)
-  - [Bo-En translation catalog](mt/boen-catalog.md)
-  - [Bo text versions](mt/bo-versions.md)
-  - [Get Bo etexts](mt/get-bo-etexts.md)
-  - [En-Bo translation catalog](mt/enbo-catalog.md)
-  - Source EN and BO files
-  - Get etext with parsing or OCR
-  - Extract body text
-  - [Proof reading alignment in VS Code](mt/Proof_reading_alignment.md)
+- ཡིག་སྒྱུར་རིག་ནུས
+  - [དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།](mt/bo-versions.md)
+  - [ཁོ་ཌི་མཉེན་ཆས་ནང་བོད་ཡིག་དང་ཨིན་ཇི་ཡིག་བསྒྱུར་མཐུན་མིན་ལ་ལྟ་སྟངས།](mt/Proof_reading_alignment.md)
+  - [文本动作](quick-start/actions.md)
+- ཡིག་གཟུགས་ངོས་འཛིན་རིག་ནུས།
+  - ...
+  - ...
+- འབྲི་ཀློག་རིག་ནུས།
 
-- OCR
-  - Annotating page boudary in prodigy
-  - Selecting pages having distinct page layout
-  - Annotating page layout in prodigy
-  - Annotation line segmentation in prodigy
-  - Selecting images having distict script type
-  - Labelling script type in prodigy
-  - Add linebreak as per image in VScode
-  - Proofread line image and line text in prodigy
 
-- STT
-  - Recording Tibetan audiobook
-  - Recording 100 hrs children speech
-  - Recording 300 hrs natural speech
-  - Cataloging Tibetan movies
-  - Sourcing Tibetan movie files
-  - Proofreading tibetan movie auto generated subtitles
+- Discord
+  - [Discord ཕབ་ལེན་བྱེད་སྟངས། ](https://github.com/orgs/MonlamAI/discussions/13)
+  - [How to share screen in Discord](https://github.com/orgs/MonlamAI/discussions/2) - Discord ནང་བཆར་ངོས་ཇི་ལྟར་སྟོན་ཚུལ།
 
-- General Tutorials
-  - [How to sign up in GitHub](https://github.com/orgs/MonlamAI/discussions/9)
+- OTranscribe
+  - [Otranscribe འཇུག་སྒོ་དང་པོ། ](https://github.com/orgs/MonlamAI/discussions/24)
+  - [Otranscribe ནང་ལས་ཀ་དངོས་བྱེད་སྟངས།](https://github.com/orgs/MonlamAI/discussions/25)
+  - Otranscribe ནང་ལས་ཀའི་མྱུར་ཐེབས། 
+
+- Screenshots and screen recording
+  - [Snipping tool on Windows](https://github.com/MonlamAI/requests/discussions/29)
+  - [Record with screencastify](https://github.com/orgs/MonlamAI/discussions/30)
+  - Snipping Tool on Mac
+
+- Convert pdf to txt online
+  - [How to convert txt file with PDF to txt](https://github.com/orgs/MonlamAI/discussions/33)
+  - [Working Copy](integration/working-copy.md)
+  - [TextExpander](integration/text-expander.md)
+  - [Hook](integration/hook.md)
+  - [URL Schemes](integration/url-schemes.md)
+
+- 隐私和条款
+  - [隐私政策](privacy.md)
+  - [使用条款](terms.md)

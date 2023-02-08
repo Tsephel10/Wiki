@@ -1,28 +1,32 @@
-## Where to get help
-- Discord link
-- Issues
+### 🏝 实时活动及灵动岛
 
-## Github
-- [How to create Github account](howto/create-github-account.md)
-- [How-to install Github Desktop](howto/install-github-desktop.md)
-- [How to upload file on Github](howto/upload-file-github.md)
-- [How to create pull request on Github](howto/create-pull-request-github.md)
-- How to upload image on Github
-- How to change the image size on Github
+在运行 iOS 16.1 的 iPhone 上，现可以将文本片段作为实时活动固定在锁屏或灵动岛。
 
-## Discord
-- [How to download Discord](howto/download-discord.md)
-- [How to share screen in Discord](howto/share-screen-discord.md)
+### 🪄 自定义预览
 
-## OTranscribe
-- How to open OTranscribe
-- How to work in OTranscribe
-- Shortcut keys in OTranscribe
+我们现在可以通过 CSS 和 JavaScript 自定义预览的样式和行为，[了解更多](https://docs.taio.app/#/bo/editor/custom-preview)。
 
-## Screenshots and Screen recording
-- How to use Snipping tool on Windows
-- How to record with screencasitify
-- How to use Snipping tool on mac
+### 🔥 全面适配 iOS 16
 
-## Convert pdf to txt file
-- How to convert txt file with PDF to txt format
+Taio 已经为 iOS 16 的更新做好全面适配，带来了包括但不限于如下主要更新：
+
+- 全新的锁屏小组件
+- 全新的 iPad 可定制工具栏
+- 全新的文档内查找流程
+- 全新的编辑菜单和标题菜单
+- 全新的剪贴板粘贴按钮
+
+请试试看并让我们知道您的想法！
+
+### 🔨 内嵌文本动作
+
+支持在文本动作中运行其他文本动作，这意味着它们现在是可以被复用的。
+
+### 🔍 关注细节
+
+- 新增：重新设计的统计视图
+- 新增：使用键盘滚动预览
+- 新增：用 `![[文件]]` 内嵌文件
+- 新增：查找文本的动作支持捕获正则分组
+- 修复：高亮显示对特殊字符不起作用
+- 修复：几个界面的小问题

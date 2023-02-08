@@ -1,1 +1,0 @@
-# Bo-En translation catalog

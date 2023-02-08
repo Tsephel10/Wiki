@@ -1,2 +1,2 @@
-- [ℹ️ How to](howto.md)
-- [བོད་ཡིག](bo/)
+- [ℹ️ ཉེར་མཁོ།](en/howto.md)
+- [English](/en)
