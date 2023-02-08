@@ -1,4 +1,10 @@
-# How create github account
+# གྷི་ཐབ་ཁ་བྱང་བཟོ་སྟངས།
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tTvLl138ky4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<details>
+  <summary>རྒྱས་པ་སྟོན།</summary>
+
 **1. google search ཐོག་ལ་github ཞེས་པ་ཕྲིས་ནས་འཚོལ། གཤམ་གྱི་འདྲ་པར་དུ་གསལ་བ་བཞིན་Sign up ཞེས་པ་དེ་འདེམ་དགོས།**
 
 <img src="https://user-images.githubusercontent.com/121783571/212825408-f2c88e02-6a7f-4acb-a83b-46f84cf40f23.PNG" width="400"/>
@@ -44,4 +50,4 @@
 
 <img src="https://user-images.githubusercontent.com/121783571/212827749-abbf8c2d-22a5-4136-aa58-407eda508ac4.PNG" width="400"/>
 
-## 12. གྷི་ཐབ་ཁ་བྱང་བཟོ་སྟངས་བརྙན། [དྲ་ཐག་འདིར་བསྣུན།](https://www.youtube.com/watch?v=tTvLl138ky4&t=206s)
+  </details>
