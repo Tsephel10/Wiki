@@ -10,25 +10,19 @@
 - Send pull request
 
 ## 1) Fork repository
-![image](https://user-images.githubusercontent.com/42564256/216926606-025f782e-ce6e-4160-88bb-6164244b020c.png)
-👉 [Click on this link to watch video ](https://youtu.be/91NXzindnm4)
+<iframe width="802" height="452" src="https://www.youtube.com/embed/91NXzindnm4" title="01 TPW  (Create fork)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2) Clone a repository
-![image](https://user-images.githubusercontent.com/42564256/216927437-a0186d5f-70cd-433e-aa57-94f1c7d30305.png)
-👉 [Click on this link to watch video ](https://youtu.be/vepFpTYaDoA)
+<iframe width="802" height="452" src="https://www.youtube.com/embed/vepFpTYaDoA?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="02 TPW (Cloning)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 3) Open 2 files in VS code
-![image](https://user-images.githubusercontent.com/42564256/216927913-24c518c3-e56a-4e20-b961-2096c1b412e8.png)
-👉 [Click on this link to watch video ](https://youtu.be/-k9WmGsHdkc)
+<iframe width="802" height="452" src="https://www.youtube.com/embed/-k9WmGsHdkc?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="03 TPW (Open in VScode)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 4) Compare and adjust when needed
-![image](https://user-images.githubusercontent.com/42564256/216929434-49ef4a0d-4c39-4139-8c14-5d524ac75c96.png)
-👉 [Click on this link to watch video ](https://youtu.be/naGuVEfRN9Q)
+<iframe width="802" height="452" src="https://www.youtube.com/embed/naGuVEfRN9Q?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="04 TPW (Compare and adjust)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 5) Commit and push to github
-![image](https://user-images.githubusercontent.com/42564256/216930663-c58b3f5b-d045-4cf3-a765-a76002c8da0f.png)
-👉 [Click on this link to watch video ](https://youtu.be/IbCSgl3lnig)
+<iframe width="802" height="452" src="https://www.youtube.com/embed/IbCSgl3lnig?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="05TPW (Commit and push)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 6) Send pull request
-![image](https://user-images.githubusercontent.com/42564256/216930964-8ebaedaa-6af7-42c3-a470-52e8fe277889.png)
-👉 [Click on this link to watch video ](https://youtu.be/KcQdxMxyuKw)
+<iframe width="802" height="452" src="https://www.youtube.com/embed/KcQdxMxyuKw?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="06 TPW (Pull request)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
