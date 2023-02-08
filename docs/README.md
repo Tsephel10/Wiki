@@ -1,4 +1,3 @@
 # སྨོན་ལམ་རིག་ནུས་ཐབས་ཤེས་ལམ་སྟོན།
-## སྨོན་ལམ་ཡིག་གཟུགས།
-## ངོ་སྤྲོད་མདོར་བསྡུས།
 
+https://raw.githubusercontent.com/MonlamAI/monlam.ai/main/assets/img/Monlam%20AI%20logo.jpg
