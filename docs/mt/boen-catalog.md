@@ -37,4 +37,5 @@
 
 ## To do
 - Select obvious alignable books
+- Elie will get metadata from AIBS --> will need some manual cleanup / selection of what is a translation
 - 
