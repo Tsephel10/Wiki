@@ -8,17 +8,7 @@
   - ...
 - འབྲི་ཀློག་རིག་ནུས།
 - ཉེར་མཁོ། Basic Skills
-<details>
-  <summary>GitHub</summary>
-  - [གྷི་ཐབ་ཀྱི་ཁ་བྱང་བཟོ་ཚུལ།](howto/create-github-account.md)
-  - [གྷི་ཐབ་འཆར་ངོས་འཇུག་སྤྲོད་བྱ་ཚུལ།](howto/install-github-desktop.md)
-  - [གྷི་ཐབ་ནང་ཡིག་ཆ་ནང་འཇུག་བྱ་ཚུལ།](howto/upload-file-github.md)
-  - [གྷི་ཐབ་ནང་ཟླ་སྒྲིལ་རེ་ཞུ་བྱ་ཚུལ།](howto/create-pull-request-github.md)
-  - [གྷི་ཐབ་ནང་འདྲ་པར་འཇོག་ཚུལ།](How to upload image on Github)
-  - [གྷི་ཐབ་ནང་འདྲ་པར་ཆེ་ཆུང་སྒྲིག་ཚུལ།](How to change the image size on Github)
-  - [གྷི་ཐབ་ནང་ཡན་ལག་forkབཟོ་ཚུལ།](How to create fork on Github
-</details>
-
+  - [གྷི་ཐབ་སྤྱོད་ཚུལ།](howto/create-github-account.md)
   - Discord ཚོགས་འདུའི་མཉེན་ཆས།
      - [Discord ཕབ་ལེན་བྱ་ཚུལ།](howto/download-discord.md)
      - [Discord འཇུག་སྤྲོད་བྱ་ཚུལ།](How to install Discord)
