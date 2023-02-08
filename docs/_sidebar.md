@@ -9,6 +9,8 @@
 - འབྲི་ཀློག་རིག་ནུས།
 - ཉེར་མཁོ། Basic Skills
    - Github
+<details>
+  <summary>Click me</summary>
      - [གྷི་ཐབ་ཀྱི་ཁ་བྱང་བཟོ་ཚུལ།](howto/create-github-account.md)
      - [གྷི་ཐབ་འཆར་ངོས་འཇུག་སྤྲོད་བྱ་ཚུལ།](howto/install-github-desktop.md)
      - [གྷི་ཐབ་ནང་ཡིག་ཆ་ནང་འཇུག་བྱ་ཚུལ།](howto/upload-file-github.md)
@@ -33,4 +35,4 @@
     - [ཡིག་རྐྱང་PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།]()
     - [སྒེའུ་ཁུང་གློག་ཀླད་ནང་Snippingབཀོལ་ཚུལ།](How to use Snipping tool on Windows)
     - [screencasitifyབཀོལ་ཚུལ།](How to record with screencasitify)
-
+</details>
