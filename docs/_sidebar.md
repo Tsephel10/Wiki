@@ -6,6 +6,14 @@
 - ཡིག་གཟུགས་ངོས་འཛིན་རིག་ནུས།
   - [Calligraphr སྤྱོད་ནས་ཡིག་གཟུགས་བཟོས་ཚུལ།](ocr/new-font-with-calligraphr.md)
   - ...
+  - འབྲི་ཀློག་རིག་ནུས། STT
+  - བོད་སྐད་སྒྲ་དེབ་ཀྱི་སྒྲ་ལེན་ཚུལ། Recording Tibetan audiobook
+  - Recording 100 hrs children speech
+  - Recording 300 hrs natural speech
+  - Cataloging Tibetan movies
+  - Sourcing Tibetan movie files
+  - Proofreading tibetan movie auto generated subtitles
+
 - འབྲི་ཀློག་རིག་ནུས།
 - ཉེར་མཁོ། Basic Skills
    - Github
@@ -18,15 +26,15 @@
      - [གྷི་ཐབ་ནང་ཡན་ལག་forkབཟོ་ཚུལ།](How to create fork on Github
 
   - Discord ཚོགས་འདུའི་མཉེན་ཆས།
-     - [Discord ཕབ་ལེན་བྱ་ཚུལ།](howto/download-discord.md)
-     - [Discord འཇུག་སྤྲོད་བྱ་ཚུལ།](How to install Discord)
-     - [Discord ནང་འཆར་ངོས་སྟོན་ཚུལ།](howto/share-screen-discord.md)
-     - [Discord ཡི་ཁྱད་ཆོས་གཞན་བཀོལ་ཚུལ།](How to use different functionality)
+     - [Discordཕབ་ལེན་བྱ་ཚུལ།](howto/download-discord.md)
+     - [Discordའཇུག་སྤྲོད་བྱ་ཚུལ།](How to install Discord)
+     - [Discordནང་འཆར་ངོས་སྟོན་ཚུལ།](howto/share-screen-discord.md)
+     - [Discordཡི་ཁྱད་ཆོས་གཞན་བཀོལ་ཚུལ།](How to use different functionality)
 
   - OTranscribe ཡིག་འབེབ་མཉེན་ཆས།
     - [OTRསྒོ་འབྱེད་ཚུལ།](How to open OTranscribe)
-    - [OTRདངོས་སུ་བཀོལ་ཚུལ། བརྙན།](How to work in OTranscribe(Video)
-    - [OTRདངོས་སུ་བཀོལ་ཚུལ། འགུལ་རིས།](How to work in OTranscribe(GIF)
+    - [OTRདངོས་སུ་བཀོལ་ཚུལ།བརྙན།](How to work in OTranscribe(Video)
+    - [OTRདངོས་སུ་བཀོལ་ཚུལ།འགུལ་རིས།](How to work in OTranscribe(GIF)
     - [OTRཡི་མྱུར་ཐེབས་ངོ་སྤྲོད།](Shortcut keys in OTranscribe)
 
   - ལག་ཆ་གཞན།
