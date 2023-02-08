@@ -1,2 +1,2 @@
-# Bo-En translation catalog  [[བོད།]](https://monlamai.github.io/Wiki/#/mt/boen-catalog)
+# Bo-En translation catalog  [![](https://img.icons8.com/ios-glyphs/30/google-translate.png)](https://monlamai.github.io/Wiki/#/mt/boen-catalog)
 
