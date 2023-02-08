@@ -1,4 +1,4 @@
-- MT
+## MT
   - [Bo-En webpage catalog](en/mt/webpage-catalog.md)
   - [Bo-En translation catalog](en/mt/boen-catalog.md)
   - [Bo text versions](en/mt/bo-versions.md)
@@ -9,7 +9,7 @@
   - Extract body text
   - [Proof reading alignment in VS Code](/mt/proofreading-alignment.md)
 
-- OCR
+# OCR
   - Annotating page boudary in prodigy
   - Selecting pages having distinct page layout
   - Annotating page layout in prodigy
@@ -19,7 +19,7 @@
   - Add linebreak as per image in VScode
   - Proofread line image and line text in prodigy
 
-- STT
+### STT
   - Recording Tibetan audiobook
   - Recording 100 hrs children speech
   - Recording 300 hrs natural speech
@@ -27,7 +27,7 @@
   - Sourcing Tibetan movie files
   - Proofreading tibetan movie auto generated subtitles
 
-- Basic Skills
+### Basic Skills
    - Github
      - [How to create Github account](howto/create-github-account.md)
      - [How-to install Github Desktop](howto/install-github-desktop.md)
