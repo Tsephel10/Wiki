@@ -1,2 +1,2 @@
 - [ℹ️ ཉེར་མཁོ།](en/howto.md)
-- [English](/en)
+- [English](en/)
