@@ -24,7 +24,7 @@
 - Publisher  # From ISBN
 - Publication Date # From ISBN
 - ISBN 
-- # of Words in Translation # Automated once the etext is isolated 
+- `#` of Words in Translation # Automated once the etext is isolated 
 - Link to URL of Translation # Libgen (Search url), Internetarchive, Amazon 
 - Bilingual edition Yes/No 
 - If English translation only, best identification of Tibetan original # Duplicate of BDRC work ID?
