@@ -9,6 +9,9 @@
 - ཡིག་ཆ་རྩིས་འབུལ། (Send pull request)
 
 ## 1) ཡིག་མཛོད་རང་ཉིད་ཀྱི་གྷི་ཐབ་ཁ་བྱང་སྟེང་ངོ་བཤུས་བྱེད་པ།
+
+<iframe width="802" height="452" src="https://www.youtube.com/embed/91NXzindnm4" title="01 TPW  (Create fork)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ![image](https://user-images.githubusercontent.com/42564256/216926606-025f782e-ce6e-4160-88bb-6164244b020c.png)
  👉 སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་བསྣུན།](https://youtu.be/91NXzindnm4)
 
