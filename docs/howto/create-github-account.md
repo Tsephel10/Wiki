@@ -1,4 +1,17 @@
-# གྷི་ཐབ་ཁ་བྱང་བཟོ་སྟངས།
+# གྷི་ཐབ་བཀོལ་སྤྱོད་བྱེད་ཚུལ།
+
+
+  - [གྷི་ཐབ་འཆར་ངོས་འཇུག་སྤྲོད་བྱ་ཚུལ།](howto/install-github-desktop.md)
+  - [གྷི་ཐབ་ནང་ཡིག་ཆ་ནང་འཇུག་བྱ་ཚུལ།](howto/upload-file-github.md)
+  - [གྷི་ཐབ་ནང་ཟླ་སྒྲིལ་རེ་ཞུ་བྱ་ཚུལ།](howto/create-pull-request-github.md)
+  - [གྷི་ཐབ་ནང་འདྲ་པར་འཇོག་ཚུལ།](How to upload image on Github)
+  - [གྷི་ཐབ་ནང་འདྲ་པར་ཆེ་ཆུང་སྒྲིག་ཚུལ།](How to change the image size on Github)
+  - [གྷི་ཐབ་ནང་ཡན་ལག་forkབཟོ་ཚུལ།](How to create fork on Github
+
+
+
+
+## གྷི་ཐབ་ཁ་བྱང་བཟོ་སྟངས།
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tTvLl138ky4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
