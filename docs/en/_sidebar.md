@@ -1,13 +1,9 @@
 - MT
-  - [Bo-En webpage catalog](en/mt/webpage-catalog.md)
-  - [Bo-En translation catalog](en/mt/boen-catalog.md)
-  - [Bo text versions](en/mt/bo-versions.md)
-  - [Get Bo etexts](en/mt/get-bo-etexts.md)
-  - [En-Bo translation catalog](en/mt/enbo-catalog.md)
-  - Source EN and BO files
-  - Get etext with parsing or OCR
-  - Extract body text
-  - [Proof reading alignment in VS Code](en/mt/proofreading-alignment.md)
+  - [🌐 Webpage catalog](en/mt/webpage-catalog.md)
+  - [📚-Bo-En catalog](en/mt/boen-catalog.md)
+  - [🔍Bo text versions](en/mt/bo-versions.md)
+  - [📚-En-Bo catalog](en/mt/enbo-catalog.md)
+  - [🔗Alignment proofreading](en/mt/proofreading-alignment.md)
 
 - OCR
   - Annotating page boudary in prodigy
