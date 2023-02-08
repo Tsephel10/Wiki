@@ -51,3 +51,24 @@
 <img src="https://user-images.githubusercontent.com/121783571/212827749-abbf8c2d-22a5-4136-aa58-407eda508ac4.PNG" width="400"/>
 
   </details>
+
+
+## གྷི་ཐབ་འཆར་ངོས་འཇུག་སྤྲོད་བྱ་ཚུལ།
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMfSokYReYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<details>
+  <summary>རྒྱས་པ་སྟོན།</summary>
+  
+1. རིམ་པ་དང་པོ།
+2. རིམ་པ་གཉིས་པ།
+  
+  
+  
+  </details>
+
+
+
+
+
