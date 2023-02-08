@@ -1,2 +1,2 @@
-- [ℹ️ How to](en/howto.md)
+- [🤔 Terminology](en/terminology.md)
 - [བོད་ཡིག](/)
