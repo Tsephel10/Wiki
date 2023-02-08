@@ -15,7 +15,7 @@ window.$docsify = {
   maxLevel: 4,
   subMaxLevel: 2,
   // name: 'Monlam AI Wiki',
-  logo: '/_asset/logo.png',
+  logo: '_asset/logo.png',
   search: {
     noData: {
       '/en/': 'No results',
