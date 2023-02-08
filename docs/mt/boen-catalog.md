@@ -1,1 +1,1 @@
-# Bo-En translations catalog  [[en]](https://monlamai.github.io/Wiki/#/en/mt/webpage-catalog)
+# Bo-En translations catalog  [🔄](https://monlamai.github.io/Wiki/#/en/mt/boen-catalog)
