@@ -7,4 +7,5 @@
   - [Calligraphr སྤྱོད་ནས་ཡིག་གཟུགས་བཟོས་ཚུལ།](ocr/new-font-with-calligraphr.md)
   - ...
 - འབྲི་ཀློག་རིག་ནུས།
+- [ཚོད་ལྟ།](mt/bo-versions.md)
 
