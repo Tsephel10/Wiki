@@ -1,1 +1,1 @@
-# Bo-En translation catalog
+# Bo-En translations catalog
