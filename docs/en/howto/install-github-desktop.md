@@ -5,8 +5,5 @@
 
 ### གྷི་ཐབ་ནང་འཇུག་བྱེད་སྟངས།
 
-![image](https://user-images.githubusercontent.com/42564256/217182474-a9e8249a-474e-45f4-9082-239f3c1f573b.png)
-
-
-6. གྷི་ཐབ་ནང་འཇུག་བྱེད་སྟངས་ཀྱི་བརྙན། [དྲ་ཐག་འདིར་བསྣུན།](https://www.youtube.com/watch?v=3JdDAJ2YPeU)
+<iframe width="802" height="451" src="https://www.youtube.com/embed/3JdDAJ2YPeU" title="How to install GitHub Desktop on Windows 10/11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
