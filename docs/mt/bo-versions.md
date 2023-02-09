@@ -1,21 +1,13 @@
 # དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ། [ ᛃ ](en/mt/bo-versions.md)
 
-**ནང་དོན་དཀར་ཆག་ནི་**
-- དཔེ་ཆ་འཚོལ་ཞིབ།
-- དྲ་ཐག་Linkངོས་འཛིན།
-- Libgenདྲ་ཚིགས་ནང་འཚོལ་ཞིབ།
-- འཕྲུལ་དེབ་འཚོལ་ཞིབ་དང་དེ་ཕབ་ལེན།
-    - ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
-- PDF འཚོལ་ཞིབ་དང་དེ་ཕབ་ལེན།
-   - ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+
+<iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
   <summary>རྒྱས་པ་སྟོན།</summary>
 
 ## དང་པོ། མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
 ཞིབ་ཕྲ་བརྙན་ལ་གཟིགས།
-
-<iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 ཞིབ་ཕྲ་བརྙན་ལ་གཟིགས།
