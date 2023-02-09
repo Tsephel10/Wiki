@@ -1,4 +1,4 @@
-# ཁོ་ཌི་མཉེན་ཆས་ནང་བོད་ཡིག་དང་ཨིན་ཇི་ཡིག་བསྒྱུར་མཐུན་མིན་ལ་ལྟ་སྟངས། [ ᛃ ](https://monlamai.github.io/Wiki/#/en/mt/proofreading-alignment.md)
+# ཁོ་ཌི་མཉེན་ཆས་ནང་བརྗོད་པ་ཤན་སྦྱར་ཞུ་དག [ ᛃ ](https://monlamai.github.io/Wiki/#/en/mt/proofreading-alignment.md)
 
 **ནང་དོན་དཀར་ཆག**
 
