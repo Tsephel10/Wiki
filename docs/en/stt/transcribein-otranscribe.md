@@ -1,7 +1,6 @@
 
-OTranscribe [ ᛃ ]
-
-# 1) Otranscribe འཇུག་སྒོ་དང་པོ། How to open otranscribe
+# OTranscribe [ ᛃ ]
+# 1) How to open otranscribe
 
 **1. Google search ནང་ལ་Otranscribe ཞེས་པ་བྲིས་ཏེ་ཚོལ།**
 
@@ -21,15 +20,14 @@ OTranscribe [ ᛃ ]
 </details>
 
 # 2) Work in OTranscribe
-
 Otranscribe ནང་སྒྲ་ཡིག་མཉམ་སྦྱོར་བྱེད་སྟངས། Subtitling in oTranscribe
-
 Watch the video to learn how to write the subtitle for video/audio
 
 <iframe width="802" height="451" src="https://www.youtube.com/embed/XthqK15Q9yE" title="སྒྲ་དང་ཡི་གེ་མཐུད་སྟངས།" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
   <summary>རྒྱས་པ་སྟོན།</summary>
+  
   # Otranscribe ནང་ལས་ཀ་ལག་ལེན་བསྟར་ཚུལ།
 
 1. ཡིག་སྣོད་གྲ་སྒྲིག 
