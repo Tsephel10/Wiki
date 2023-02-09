@@ -9,6 +9,6 @@
   - [📝Transcription with oTranscribe](en/stt/transcribein-otranscribe.md)
 
 - Basic Skills
-  - Github
+  - [Github](en/howto/github.md)
   - Discord
   - Tools 
