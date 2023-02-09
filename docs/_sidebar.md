@@ -1,8 +1,8 @@
 - 🔁 ཡིག་སྒྱུར་རིག་ནུས།
-  - [🌐 དྲ་ཚིགས་དཀར་ཆག](en/mt/webpage-catalog.md)
-  - [📚 དབྱིན་བསྒྱུར་དཀར་ཆག](en/mt/boen-catalog.md)
+  - [🌐 དྲ་ཚིགས་དཀར་ཆག](mt/webpage-catalog.md)
+  - [📚 དབྱིན་བསྒྱུར་དཀར་ཆག](mt/boen-catalog.md)
   - [🔍 དཔེ་རྒྱུན་འཚོལ་བསྡུ།](mt/bo-versions.md)
-  - [📚 བོད་བསྒྱུར་དཀར་ཆག](en/mt/enbo-catalog.md)
+  - [📚 བོད་བསྒྱུར་དཀར་ཆག](mt/enbo-catalog.md)
   - [📄 ཡིག་རྐྱང་བཟོ་ཚུལ།](mt/english-etexts.md)
   - [🔗 བརྗོད་པ་ཤན་སྦྱར་ཞུ་དག](mt/proofreading-alignment.md)
 - 💬 འབྲི་ཀློག་རིག་ནུས།
