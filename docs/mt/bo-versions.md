@@ -14,22 +14,15 @@
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-🖱️ སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://watch.screencastify.com/v/PaX37UI36a9XYcg2nFiR)
-
 ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 ཞིབ་ཕྲ་བརྙན་ལ་གཟིགས།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/hwZm9l6p_-g" title="Convert epub and cleanup file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-🖱️ སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://watch.screencastify.com/v/GM07x99h4PrbVVcrF2Lw)
-
 ## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 ཞིབ་ཕྲ་བརྙན་ལ་གཟིགས།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/rsCvvePGHu4" title="Get pdf and convert it to txt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-🖱️ སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://watch.screencastify.com/v/Pya5Ptlujci8UHcxI8Av)
 
 👉དཔེ་མཚོན་འདི་དག་བརྒྱུད་ནས་གཞན་རྣམས་ཀྱང་འཚོལ་ཞིབ་དང་བསྒྱུར་བཅོས་གཏོང་ཤེས་པར་བྱའོ།།
 
