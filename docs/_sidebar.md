@@ -3,7 +3,7 @@
   - [📚 དབྱིན་བསྒྱུར་དཀར་ཆག](mt/boen-catalog.md)
   - [🔍 དཔེ་རྒྱུན་འཚོལ་བསྡུ།](mt/bo-versions.md)
   - [📚 བོད་བསྒྱུར་དཀར་ཆག](mt/enbo-catalog.md)
-  - [📄 ཡིག་རྐྱང་བཟོ་ཚུལ།](mt/english-etexts.md)
+  - [📄 ཡིག་རྐྱང་བསྒྱུར་བ།](mt/english-etexts.md)
   - [🔗 བརྗོད་པ་ཤན་སྦྱར་ཞུ་དག](mt/proofreading-alignment.md)
 - 💬 འབྲི་ཀློག་རིག་ནུས།
   - [Otranscribe ཡིག་འབེབ་བྱ་ཚུལ།](stt/transcribein-otranscribe.md)
