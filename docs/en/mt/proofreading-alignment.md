@@ -1,4 +1,4 @@
-# Proof reading alignment in VS Code
+# Proof reading alignment in VS Code [🔄](https://monlamai.github.io/Wiki/#/mt/proofreading-alignment.md)
 
 **Content**
 
