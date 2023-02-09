@@ -7,8 +7,29 @@
 
 - 👁️‍🗨️ ཡིག་འཛིན་རིག་ནུས།
   - [Calligraphr སྤྱོད་ནས་ཡིག་གཟུགས་བཟོས་ཚུལ།](ocr/new-font-with-calligraphr.md)
-  - ...
+  - ཡིག་གཟུགས་ངོས་འཛིན་རིག་ནུས། OCR
+  - Annotating page boudary in prodigy
+  - Selecting pages having distinct page layout
+  - Annotating page layout in prodigy
+  - Annotation line segmentation in prodigy
+  - Selecting images having distict script type
+  - Labelling script type in prodigy
+  - Add linebreak as per image in VScode
+  - Proofread line image and line text in prodigy
+  
 - 💬 འབྲི་ཀློག་རིག་ནུས།
+ - བོད་སྐད་སྒྲ་དེབ་ཀྱི་སྒྲ་ལེན་ཚུལ། Recording Tibetan audiobook
+  - Recording 100 hrs children speech
+  - Recording 300 hrs natural speech
+  - Cataloging Tibetan movies
+  - Sourcing Tibetan movie files
+  - Proofreading tibetan movie auto generated subtitles
+
+- OTranscribe ཡིག་འབེབ་མཉེན་ཆས།
+    - [OTRསྒོ་འབྱེད་ཚུལ།](Howto-open-OTranscribe)
+    - [OTRདངོས་སུ་བཀོལ་ཚུལ།-བརྙན།](Howto-work-in-OTranscribe(Video)
+    - [OTRདངོས་སུ་བཀོལ་ཚུལ།འགུལ་རིས།](Howto-work-in-OTranscribe(GIF)
+    - [OTRཡི་མྱུར་ཐེབས་ངོ་སྤྲོད།](Shortcut-keys-in-OTranscribe)
   - ...
 - 👉 ཉེར་མཁོའི་ལམ་སྟོན།
   - [གྷི་ཐབ་སྤྱོད་ཚུལ།](howto/create-github-account.md)
@@ -24,15 +45,9 @@
 
   - Discord ཚོགས་འདུའི་མཉེན་ཆས།
      - [Discordཕབ་ལེན་བྱ་ཚུལ།](howto/download-discord.md)
-     - [Discordའཇུག་སྤྲོད་བྱ་ཚུལ།](How to install Discord)
+     - [Discordའཇུག་སྤྲོད་བྱ་ཚུལ།](Howto/install-Discord)
      - [Discordནང་འཆར་ངོས་སྟོན་ཚུལ།](howto/share-screen-discord.md)
-     - [Discordཡི་ཁྱད་ཆོས་གཞན་བཀོལ་ཚུལ།](How to use different functionality)
-
-  - OTranscribe ཡིག་འབེབ་མཉེན་ཆས།
-    - [OTRསྒོ་འབྱེད་ཚུལ།](How to open OTranscribe)
-    - [OTRདངོས་སུ་བཀོལ་ཚུལ།བརྙན།](How to work in OTranscribe(Video)
-    - [OTRདངོས་སུ་བཀོལ་ཚུལ།འགུལ་རིས།](How to work in OTranscribe(GIF)
-    - [OTRཡི་མྱུར་ཐེབས་ངོ་སྤྲོད།](Shortcut keys in OTranscribe)
+     - [Discordཡི་ཁྱད་ཆོས་གཞན་བཀོལ་ཚུལ།](Howto-use-different-functionality)
 
   - ཉེར་མཁོའི་ལག་ཆ་གཞན།
     - [ཡིག་རྐྱང་PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།]()
