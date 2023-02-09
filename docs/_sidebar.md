@@ -3,12 +3,13 @@
   - [📚 དབྱིན་བསྒྱུར་དཀར་ཆག](en/mt/boen-catalog.md)
   - [🔍 དཔེ་རྒྱུན་འཚོལ་བསྡུ།](mt/bo-versions.md)
   - [📚 བོད་བསྒྱུར་དཀར་ཆག](en/mt/enbo-catalog.md)
-  - [དབྱིན་ཇིའི་ཡིག་རྐྱང་བཟོ་ཚུལ།](mt/english-etexts.md)
+  - [📄 ཡིག་རྐྱང་བཟོ་ཚུལ།](mt/english-etexts.md)
   - [🔗 བརྗོད་པ་ཤན་སྦྱར་ཞུ་དག](mt/proofreading-alignment.md)
 - 💬 འབྲི་ཀློག་རིག་ནུས།
   - [Otranscribe ཡིག་འབེབ་བྱ་ཚུལ།](stt/transcribein-otranscribe.md)
   - 
 - 👁️‍🗨️ ཡིག་འཛིན་རིག་ནུས།
+  - [ཤོག་ངོས་ཐིག་རིས།](ocr/page-segmentation.md)
   - [Calligraphr-སྤྱོད་ནས་ཡིག་གཟུགས་བཟོས་ཚུལ།](ocr/new-font-with-calligraphr.md)
   
 - 💬 འབྲི་ཀློག་རིག་ནུས།
