@@ -20,15 +20,14 @@
 </details>
 
 # 2) Work in OTranscribe
-Otranscribe ནང་སྒྲ་ཡིག་མཉམ་སྦྱོར་བྱེད་སྟངས། Subtitling in oTranscribe
 Watch the video to learn how to write the subtitle for video/audio
 
 <iframe width="802" height="451" src="https://www.youtube.com/embed/XthqK15Q9yE" title="སྒྲ་དང་ཡི་གེ་མཐུད་སྟངས།" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
   <summary>རྒྱས་པ་སྟོན།</summary>
-  
-  # Otranscribe ནང་ལས་ཀ་ལག་ལེན་བསྟར་ཚུལ།
+
+# Otranscribe ནང་ལས་ཀ་ལག་ལེན་བསྟར་ཚུལ།
 
 1. ཡིག་སྣོད་གྲ་སྒྲིག 
 
@@ -48,9 +47,7 @@ Watch the video to learn how to write the subtitle for video/audio
 
 ![ཁ](https://user-images.githubusercontent.com/109784146/210500089-ac4d6fe4-907e-498f-8b64-c90206a424d8.gif)
 
-
 6. Otranscribe དང་འབྲེལ་བའི་མགྱོགས་ཐེབས་དག
-
  
 ![མི](https://user-images.githubusercontent.com/109784146/210501746-9be6d5dc-89bb-48f1-be22-3e8c515d7c56.gif)
 
