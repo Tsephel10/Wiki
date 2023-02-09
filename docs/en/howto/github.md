@@ -50,10 +50,9 @@
 
 <img src="https://user-images.githubusercontent.com/121783571/212827749-abbf8c2d-22a5-4136-aa58-407eda508ac4.PNG" width="400"/>
 
-</details>
+c
 
 ## 2) How-to install Github Desktop
-### གྷི་ཐབ་ནང་འཇུག་བྱེད་སྟངས།
 <iframe width="802" height="451" src="https://www.youtube.com/embed/3JdDAJ2YPeU" title="How to install GitHub Desktop on Windows 10/11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
