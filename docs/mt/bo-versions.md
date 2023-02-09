@@ -1,4 +1,4 @@
-# དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+# དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ། [ ᛃ ](mt/bo-versions.md)
 
 **ནང་དོན་དཀར་ཆག་ནི་**
 - དཔེ་ཆ་འཚོལ་ཞིབ།
@@ -12,23 +12,17 @@
 ## དང་པོ། མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
 ཞིབ་ཕྲ་བརྙན་ལ་གཟིགས།
 
-<img src="https://user-images.githubusercontent.com/28945342/216926656-23229dd3-00c1-4885-b521-23628c721be0.png" width="400"/>
-
-🖱️ སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://watch.screencastify.com/v/PaX37UI36a9XYcg2nFiR)
+<iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 ཞིབ་ཕྲ་བརྙན་ལ་གཟིགས།
 
-<img src="https://user-images.githubusercontent.com/28945342/216928587-3716b285-21a0-49b4-b40f-0678bf2f07ba.png" width="400"/>
-
-🖱️ སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://watch.screencastify.com/v/GM07x99h4PrbVVcrF2Lw)
+<iframe width="911" height="513" src="https://www.youtube.com/embed/hwZm9l6p_-g" title="Convert epub and cleanup file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 ཞིབ་ཕྲ་བརྙན་ལ་གཟིགས།
 
-<img src="https://user-images.githubusercontent.com/28945342/216929550-86ebc658-95a9-43ec-a52b-527c1101a532.png" width="400"/>
-
-🖱️ སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://watch.screencastify.com/v/Pya5Ptlujci8UHcxI8Av)
+<iframe width="911" height="513" src="https://www.youtube.com/embed/rsCvvePGHu4" title="Get pdf and convert it to txt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 👉དཔེ་མཚོན་འདི་དག་བརྒྱུད་ནས་གཞན་རྣམས་ཀྱང་འཚོལ་ཞིབ་དང་བསྒྱུར་བཅོས་གཏོང་ཤེས་པར་བྱའོ།།
 
