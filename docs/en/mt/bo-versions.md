@@ -1,4 +1,3 @@
-# Bo_text versions
 # Search books and convert to text [ ᛃ ](mt/bo-versions.md)
 
 **Content**
