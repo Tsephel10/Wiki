@@ -1,5 +1,5 @@
 
-# OTranscribe [ ᛃ ](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/transcribein-otranscribe.md)
+# OTranscribe [ ᛃ ](stt/transcribein-otranscribe.md)
 # 1) How to open otranscribe
 
 **1. Google search ནང་ལ་Otranscribe ཞེས་པ་བྲིས་ཏེ་ཚོལ།**
