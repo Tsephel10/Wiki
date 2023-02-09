@@ -1,3 +1,6 @@
+
+OTranscribe [ ᛃ ]
+
 # 1) Otranscribe འཇུག་སྒོ་དང་པོ། How to open otranscribe
 
 **1. Google search ནང་ལ་Otranscribe ཞེས་པ་བྲིས་ཏེ་ཚོལ།**

@@ -6,7 +6,7 @@
   - [🔗Alignment proofreading](en/mt/proofreading-alignment.md)
 
 - STT
-  - Transcription with oTranscribe
+  - [Transcription with oTranscribe](en/stt/transcribein-otranscribe.md)
 
 - Basic Skills
   - Github
