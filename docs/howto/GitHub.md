@@ -134,12 +134,13 @@
 
 <details>
 
-# 7) GitHub Desktopནང་ཡིག་ཆ་སྣོན་པ་དང་འབུལ་སྤྲོད་བྱ་ཚུལ།
+## 7) GitHub Desktopནང་ཡིག་ཆ་སྣོན་པ་དང་འབུལ་སྤྲོད་བྱ་ཚུལ།
 
 1. Save a file as .otr
 [![1](https://user-images.githubusercontent.com/121657083/210234975-e7bcc84f-65e3-4339-8c09-496f9f9ffb3d.png)](url)
 
 <details>
+  
   <summary>རྒྱས་པ་སྟོན།</summary>
 
 2. Type something about the file and click on commit
@@ -174,4 +175,3 @@
   
 [![9](https://user-images.githubusercontent.com/121657083/210236463-0a576a51-a86e-49ac-ac6b-ca884b760c9f.png)](url)
 
-<details>
