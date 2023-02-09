@@ -100,7 +100,7 @@ Right click on **Screencastify** just below and **Open link in new tab**
 
 </details>
 
-## 3) convert PDF to txt online 
+## 3) Convert PDF to txt online 
 
 <iframe width="645" height="430" src="https://www.youtube.com/embed/dzdkvOHWxpU" title="Convert PDF To Text Online - How To Convert PDF To Text Online - PDFTOTEXT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
