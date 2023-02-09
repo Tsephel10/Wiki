@@ -36,5 +36,5 @@
 
 ## GitHub Desktop
 
-<iframe width="857" height="482" src="https://www.youtube.com/embed/3JdDAJ2YPeU" title="How to install GitHub Desktop on Windows 10/11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="600" height="300" src="https://www.youtube.com/embed/3JdDAJ2YPeU" title="How to install GitHub Desktop on Windows 10/11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
