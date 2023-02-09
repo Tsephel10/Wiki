@@ -11,4 +11,4 @@
 - Basic Skills
   - [Github](en/howto/github.md)
   - [Discord](en/howto/discord.md)
-  - Tools 
+  - [Tools](en/tools.md) 
