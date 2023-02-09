@@ -5,7 +5,7 @@
   - [📚 བོད་བསྒྱུར་དཀར་ཆག](en/mt/enbo-catalog.md)
   - [🔗 བརྗོད་པ་ཤན་སྦྱར་ཞུ་དག](mt/proofreading-alignment.md)
 - 💬 འབྲི་ཀློག་རིག་ནུས།
-  - [Otranscribe ཡིག་འབེབ་བྱ་ཚུལ།]([stt/transcribein-otranscribe.md](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/transcribein-otranscribe.md))
+  - [Otranscribe ཡིག་འབེབ་བྱ་ཚུལ།](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/transcribein-otranscribe.md)
   - 
 - 👁️‍🗨️ ཡིག་འཛིན་རིག་ནུས།
   - [Calligraphr-སྤྱོད་ནས་ཡིག་གཟུགས་བཟོས་ཚུལ།](ocr/new-font-with-calligraphr.md)
