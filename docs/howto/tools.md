@@ -1,5 +1,5 @@
 
-## 1) སྒེའུ་ཁུང་གློག་ཀླད་ནང་Snippingསྤྱོད་ཚུལ།
+## 1) སྒེའུ་ཁུང་གློག་ཀླད་ནང་Snippingསྤྱོད་ཚུལ། [ ᛃ ](en/howto/tools.md)
 
 <iframe width="764" height="430" src="https://www.youtube.com/embed/R5SUujMKfI0" title="How to use snipping tool on Windows 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
