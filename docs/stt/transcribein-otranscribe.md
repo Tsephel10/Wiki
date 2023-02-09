@@ -1,5 +1,5 @@
 
-# OTranscribe བཀོལ་སྤྱོད་བྱེད་ཚུལ། [ ᛃ ](https://github.com/MonlamAI/Wiki/blob/main/docs/en/stt/transcribein-otranscribe.md)
+# OTranscribe བཀོལ་སྤྱོད་བྱེད་ཚུལ། [ ᛃ ](en/stt/transcribein-otranscribe.md)
 # 1) ཐོག་མར་ Otranscribe སྒོ་འབྱེད་ཚུལ།
 
 **1. Google search ནང་ལ་Otranscribe ཞེས་པ་བྲིས་ཏེ་ཚོལ།**
