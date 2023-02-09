@@ -1,5 +1,5 @@
-- # Github 
-- ## 1) How to create Github account 
+# Github 
+## 1) How to create Github account 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/tTvLl138ky4" title="How To Create Github Account || Signup Github" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -52,16 +52,19 @@
 
 </details>
 
-## How-to install Github Desktop
+## 2) How-to install Github Desktop
+### གྷི་ཐབ་ནང་འཇུག་བྱེད་སྟངས།
+<iframe width="802" height="451" src="https://www.youtube.com/embed/3JdDAJ2YPeU" title="How to install GitHub Desktop on Windows 10/11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<details>
+  <summary>རྒྱས་པ་སྟོན།</summary>
 
 ### གྷི་ཐབ་ཕབ་ལེན།
 - གྷི་ཐབ་ཕབ་ལེན་བྱེད་གནས། [དྲ་ཐག་འདིར་བསྣུན།](https://desktop.github.com/)
 
-### གྷི་ཐབ་ནང་འཇུག་བྱེད་སྟངས།
+</details>
 
-<iframe width="802" height="451" src="https://www.youtube.com/embed/3JdDAJ2YPeU" title="How to install GitHub Desktop on Windows 10/11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## How to upload file on Github
+## 3) How to upload file on Github
 
 ![Upload file on github](https://user-images.githubusercontent.com/109784146/210761437-1ea4eb7b-f60a-4def-94d2-1b5265e5b33f.gif)
 
@@ -90,13 +93,11 @@
 
 </details>
 
-## How to create pull request on Github
-
-### 1) Create pull request ཡིག་ཆ་ཟླ་སྒྲིལ་གྱི་རེ་ཞུ་གཏོང་སྟངས།
+## 4)How to create pull request on Github
 
 ![pull request](https://user-images.githubusercontent.com/109784146/210779595-0a4d3730-da65-4a57-8433-830136046bc1.gif)
 
-## How to change the image size on Github
+## 5) How to change the image size on Github
 
 <iframe width="764" height="430" src="https://www.youtube.com/embed/f4ifdKCH7VI" title="Resize image in Github - README.md" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -110,7 +111,7 @@
 
 </details>
 
-## How to create fork on Github
+## 6) How to create fork on Github
 
 **1.  ཡིག་སྣོད་གཙོ་བོ་དེ་བཙལ་རྗེས། Fork ཞེས་པ་དེ་འདེམ།**
 
