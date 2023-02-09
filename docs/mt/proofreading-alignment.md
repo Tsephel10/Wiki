@@ -1,4 +1,4 @@
-# ཁོ་ཌི་མཉེན་ཆས་ནང་བརྗོད་པ་ཤན་སྦྱར་ཞུ་དག [ ᛃ ](https://github.com/MonlamAI/Wiki/blob/main/docs/en/mt/bo-versions.md)
+# ཁོ་ཌི་མཉེན་ཆས་ནང་བརྗོད་པ་ཤན་སྦྱར་ཞུ་དག [ ᛃ ](https://monlamai.github.io/Wiki/#/en/mt/proofreading-alignment.md)
 
 **ནང་དོན་དཀར་ཆག**
 
