@@ -1,5 +1,5 @@
 
-## 1) སྒེའུ་ཁུང་གློག་ཀླད་ནང་Snippingསྤྱོད་ཚུལ། [ ᛃ ](en/howto/tools.md)
+## ༡) སྒེའུ་ཁུང་གློག་ཀླད་ནང་Snippingསྤྱོད་ཚུལ། [ ᛃ ](en/howto/tools.md)
 
 <iframe width="764" height="430" src="https://www.youtube.com/embed/R5SUujMKfI0" title="How to use snipping tool on Windows 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -53,7 +53,7 @@
 
 </details>
 
-## 2) Screencastify སྤྱོད་ཚུལ།
+## ༢) Screencastify སྤྱོད་ཚུལ།
 
 <iframe width="764" height="430" src="https://www.youtube.com/embed/ZY_AACU4Uj0" title="How to Use Screencastify" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -100,7 +100,7 @@ Right click on **Screencastify** just below and **Open link in new tab**
 
 </details>
 
-## 3) དྲ་ཐོག་ནས་PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚཱུལ།
+## ༣) དྲ་ཐོག་ནས་PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚཱུལ།
 
 <iframe width="645" height="430" src="https://www.youtube.com/embed/dzdkvOHWxpU" title="Convert PDF To Text Online - How To Convert PDF To Text Online - PDFTOTEXT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
