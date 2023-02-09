@@ -19,8 +19,9 @@
 - ཕ་ཡུལ། ཨ་མདོ།
 - ཡུལ་སྐད། དབུས་སྐད།
 
-[བྱས་ནས་](https://user-images.githubusercontent.com/17675331/217753303-846cd0f2-6f20-44ff-a411-cb4e4b0bd0a0.webm)
+![བྱས་ནས་](https://user-images.githubusercontent.com/17675331/217753303-846cd0f2-6f20-44ff-a411-cb4e4b0bd0a0.webm)
 
+[དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/%E0%BD%96%E0%BE%B1%E0%BD%A6%E0%BC%8B%E0%BD%93%E0%BD%A6%E0%BC%8B.mp3 ':include :type=audio')
 
 ------------------------------------------------------------------------
 
