@@ -1,6 +1,6 @@
 # གྷི་ཐབ་བེད་སྤྱོད་བྱེད་ཚུལ།
 
-## གྷི་ཐབ་ཁ་བྱང་བཟོ་སྟངས།
+## གྷི་ཐབ་ཁ་བྱང་བཟོ་སྟངས། [test](https://youtu.be/WssGdsEQ51A)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tTvLl138ky4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
