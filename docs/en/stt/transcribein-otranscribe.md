@@ -27,7 +27,7 @@ Watch the video to learn how to write the subtitle for video/audio
 <details>
   <summary>རྒྱས་པ་སྟོན།</summary>
 
-# Otranscribe ནང་ལས་ཀ་ལག་ལེན་བསྟར་ཚུལ།
+### Otranscribe ནང་ལས་ཀ་ལག་ལེན་བསྟར་ཚུལ།
 
 1. ཡིག་སྣོད་གྲ་སྒྲིག 
 
