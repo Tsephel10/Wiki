@@ -52,7 +52,7 @@
 
 </details>
 
-## 2) How-to install Github Desktop
+## 2) Github Desktop འཇུག་སྤྲོད་བྱ་ཚུལ།
 <iframe width="802" height="451" src="https://www.youtube.com/embed/3JdDAJ2YPeU" title="How to install GitHub Desktop on Windows 10/11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
@@ -63,7 +63,7 @@
 
 </details>
 
-## 3) How to upload file on Github
+## 3) གྷི་ཐབ་ནང་ཡིག་ཆ་ནང་འཇུག་བྱ་ཚུལ།
 
 ![Upload file on github](https://user-images.githubusercontent.com/109784146/210761437-1ea4eb7b-f60a-4def-94d2-1b5265e5b33f.gif)
 
@@ -92,11 +92,11 @@
 
 </details>
 
-## 4)How to create pull request on Github
+## 4) གྷི་ཐབ་ནང་ཡིག་ཆ་ཟླ་སྒྲིལ་རེ་ཞུ་བྱ་ཚུལ།
 
 ![pull request](https://user-images.githubusercontent.com/109784146/210779595-0a4d3730-da65-4a57-8433-830136046bc1.gif)
 
-## 5) How to change the image size on Github
+## 5) གྷི་ཐབ་ནང་འདྲ་པར་ཆེ་ཆུང་སྒྲིག་ཚུལ།
 
 <iframe width="764" height="430" src="https://www.youtube.com/embed/f4ifdKCH7VI" title="Resize image in Github - README.md" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -110,7 +110,7 @@
 
 </details>
 
-## 6) How to create fork on Github
+## 6) གྷི་ཐབ་ནང་ཡན་ལག་forkབཟོ་ཚུལ།
 
 **1.  ཡིག་སྣོད་གཙོ་བོ་དེ་བཙལ་རྗེས། Fork ཞེས་པ་དེ་འདེམ།**
 
@@ -133,7 +133,7 @@
 
 <details>
 
-# 7) How to add file on GitHub Desktop and commit it
+# 7) GitHub Desktopནང་ཡིག་ཆ་སྣོན་པ་དང་འབུལ་སྤྲོད་བྱ་ཚུལ།
 
 1. Save a file as .otr
 [![1](https://user-images.githubusercontent.com/121657083/210234975-e7bcc84f-65e3-4339-8c09-496f9f9ffb3d.png)](url)
