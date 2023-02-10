@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
+@import "../_asset/fonts/monlam2/stylesheet.css";
+
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -55,7 +57,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   color: #34495e;
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif, Monlam;
   font-size: 15px;
   letter-spacing: 0;
   margin: 0;
@@ -366,7 +368,7 @@ body.sticky .sidebar-toggle {
   border-radius: 100%;
   color: #fff;
   content: '!';
-  font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif, Monlam-b;
   font-size: 14px;
   font-weight: bold;
   left: -12px;
