@@ -11,7 +11,7 @@
 - ཞེ་པུ་ 
 [དཔེ་མཚོན་](https://samplelib.com/lib/preview/mp3/sample-3s.mp3 ':include :type=audio')
 
-[filename](_media/example.md ':include :type=code')
+[filename](_media/example.md ':include :type=audio')
 
 
 ------------------------------------------------------------------------
