@@ -67,8 +67,8 @@ h2 > a.anchor {
 
 .markdown-section blockquote {
   background: #f8f8f8;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 
 .markdown-section blockquote p {
