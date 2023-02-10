@@ -1,5 +1,5 @@
 - 🔁 ཡིག་སྒྱུར་རིག་ནུས།
-  - [🌐 དྲ་ཚིགས་དཀར་ཆག](mt/webpage-catalog.md)
+  - [🌐 དྲ་རྩོམ་དཀར་ཆག](mt/webpage-catalog.md)
   - [📚 དབྱིན་བསྒྱུར་དཀར་ཆག](mt/boen-catalog.md)
   - [🔍 དཔེ་རྒྱུན་འཚོལ་བསྡུ།](mt/bo-versions.md)
   - [📚 བོད་བསྒྱུར་དཀར་ཆག](mt/enbo-catalog.md)
