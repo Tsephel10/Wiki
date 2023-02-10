@@ -100,7 +100,7 @@ Right click on **Screencastify** just below and **Open link in new tab**
 
 </details>
 
-## ༣) དྲ་ཐོག་ནས་PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚཱུལ།
+## ༣) དྲ་ཐོག་ནས་PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལལ།
 
 <iframe width="645" height="430" src="https://www.youtube.com/embed/dzdkvOHWxpU" title="Convert PDF To Text Online - How To Convert PDF To Text Online - PDFTOTEXT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
