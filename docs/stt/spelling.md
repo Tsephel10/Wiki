@@ -21,7 +21,7 @@
 
 [དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3':include :type=audio')
 
-[དཔེ་མཚོན་](/stt/assets/0123.mp3':include :type=audio')
+[དཔེ་མཚོན་](https://samplelib.com/lib/preview/mp3/sample-3s.mp3':include :type=audio')
 
 ------------------------------------------------------------------------
 
