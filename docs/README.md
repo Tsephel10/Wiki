@@ -2,4 +2,4 @@
 
 ### ཡིག་བསྒྱུར་རིག་ནུས་བཟོ་བསྐྲུན་ལས་རིམ་གྱི་དཔེའུ་རིས།
 
-![image](https://user-images.githubusercontent.com/17675331/217991281-f90573ca-900d-4e8a-a339-7d2e20a0f40f.png)
+![image](https://user-images.githubusercontent.com/17675331/217991604-3c1f06ed-19cb-4cc1-b29e-3701cf6ebf4f.png)
