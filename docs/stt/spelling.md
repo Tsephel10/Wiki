@@ -8,13 +8,31 @@
 དག་ཆ་གཞན།
 - ཞེ་བོ་ 
 
+མི་རིགས་འདི།
+[དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true ':include :type=audio')
 
+མི་རིགས་འདི། [དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true ':include :type=audio')
+
+> མི་རིགས་འདི།
 [དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true ':include :type=audio')
 
 
-[དཔེ་མཚོན་](https://samplelib.com/lib/preview/mp3/sample-3s.mp3 ':include :type=audio')
+### མི་རིགས་འདི།
+[དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true ':include :type=audio')
 
-[filename](https://samplelib.com/lib/preview/mp3/sample-3s.mp3 ':include :type=audio')
+
+**མི་རིགས་འདི།**
+[དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true ':include :type=audio')
+
+
+[དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true ':include :type=audio')
+འདི།
+
+
+- [དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true ':include :type=audio')
+
+
+
 
 
 ------------------------------------------------------------------------
