@@ -8,7 +8,7 @@
 <iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
-  <summary>རྒྱས་པ་སྟོན།</summary>
+  <summary>རིས་འགྲེལ།</summary>
 1. ...
 2. ...
 </details>
@@ -18,7 +18,7 @@
 <iframe width="911" height="513" src="https://www.youtube.com/embed/hwZm9l6p_-g" title="Convert epub and cleanup file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
-  <summary>རྒྱས་པ་སྟོན།</summary>
+  <summary>རིས་འགྲེལ།</summary>
 1. ...
 2. ...
 </details>
@@ -28,7 +28,7 @@
 <iframe width="911" height="513" src="https://www.youtube.com/embed/rsCvvePGHu4" title="Get pdf and convert it to txt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
-  <summary>རྒྱས་པ་སྟོན།</summary>
+  <summary>རིས་འགྲེལ།</summary>
 1. ...
 2. ...
 </details>
