@@ -1,6 +1,6 @@
 window.$docsify = {
   themeColor: '#ff9500',
-  logo: '_asset/logo.png',
+  logo: '_assets/logo.png',
   alias: {
     '/((?!en).)*/_sidebar.md': '/_sidebar.md',
     '/((?!en).)*/_navbar.md': '/_navbar.md',
