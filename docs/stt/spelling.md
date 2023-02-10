@@ -11,11 +11,12 @@
 ### ཅེས་བྱས།
 
 ### བཅས་བྱེད།
+
 <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+  <source src="https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true" type="audio/mpeg">
 </audio>
+
+
 ### ཅེས་བྱས།
 
 ### བཅས་བྱེད།
