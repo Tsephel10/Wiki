@@ -1,4 +1,4 @@
-# Github [ ᛃ ](howto/GitHub.md)
+# Github [ ᛃ ](howto/gitHub.md)
 ## 1) How to create Github account 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/tTvLl138ky4" title="How To Create Github Account || Signup Github" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
