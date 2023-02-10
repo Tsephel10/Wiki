@@ -5,9 +5,9 @@
 --------
 > གོ་དོན།: ཧ་ཅང་། འབྱུང་ཁུངས།: ཞེད་པོ།
 
-### ཞེ་བོ་
-
-### ཞེ་པུ་
+དག་ཆ་གཞན།
+- ཞེ་བོ་ [དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3 ':include :type=audio')
+- ཞེ་པུ་ [དཔེ་མཚོན་](https://samplelib.com/lib/preview/mp3/sample-3s.mp3 ':include :type=audio')
 
 ------------------------------------------------------------------------
 
@@ -19,9 +19,7 @@
 - ཕ་ཡུལ། ཨ་མདོ།
 - ཡུལ་སྐད། དབུས་སྐད།
 
-[དཔེ་མཚོན་](https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3':include :type=audio')
 
-[དཔེ་མཚོན་](https://samplelib.com/lib/preview/mp3/sample-3s.mp3':include :type=audio')
 
 ------------------------------------------------------------------------
 
