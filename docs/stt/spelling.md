@@ -10,13 +10,8 @@
 
 **གོ་དོན།**: ཧ་ཅང་།  **འབྱུང་ཁུངས།**: ཞེད་པོ།  **ཡུལ་སྐད།** དབུས་སྐད།
 
-### ཅེས་བྱས།
-
-### བཅས་བྱེད།
-
-<audio controls>
-  <source src="https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true" type="audio/mpeg">
-</audio>
+- ཅེས་བྱས། <audio controls><source src="https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true" type="audio/mpeg"></audio>
+- བཅས་བྱེད། <audio controls><source src="https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true" type="audio/mpeg"></audio>
 
 
 ### ཅེས་བྱས།
