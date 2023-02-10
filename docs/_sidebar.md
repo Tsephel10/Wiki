@@ -6,6 +6,7 @@
   - [📄 དབྱིན་ཡིག་ཡིག་རྐྱང་།](mt/english-etexts.md)
   - [🔗 བརྗོད་པ་ཤན་སྦྱར་ཞུ་དག](mt/proofreading-alignment.md)
 - 💬 འབྲི་ཀློག་རིག་ནུས།
+  - [✅དག་ཆ་གཅིག་གྱུར](stt/spelling.md)
   - [Otranscribe ཡིག་འབེབ།](stt/transcribein-otranscribe.md)
   - 
 - 👁️‍🗨️ ཡིག་འཛིན་རིག་ནུས།
