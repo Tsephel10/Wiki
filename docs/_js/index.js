@@ -17,6 +17,7 @@ window.$docsify = {
   subMaxLevel: 2,
   name: 'སྨོན་ལམ་རིག་ནུས།',
   search: {
+    maxAge: 0, // 86400000 Expiration time, the default one day
     noData: {
       '/en/': 'No results',
       '/': 'བཙལ་འབྲས་མེད།'
