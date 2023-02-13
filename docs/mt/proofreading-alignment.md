@@ -15,7 +15,7 @@
 
 ## 2) ཡིག་མཛོད་རང་ཉིད་ཀྱི་གློག་ཀླད་སྟེང་ཕབ་ལེན་བྱེད་སྟངས།
 
-<iframe width="802" height="452" src="https://www.youtube.com/embed/vepFpTYaDoA?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="02 TPW (Cloning)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="804" height="453" src="https://www.youtube.com/embed/vepFpTYaDoA?list=PLr4lRhE-vqKBYWu0rRwRyq_IWeOf1LTHw" title="02 TPW (Cloning)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 3) ཁོ་ཌི་ནང་ཡིག་ཆ་གཉིས་མཉམ་དུ་ཁ་ཕྱེ་སྟངས།
 
